@@ -1,0 +1,89 @@
+Recv: Connect from host6 on (6-15)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-15)
+place received message at the end of the queue
+Recv: Connect from host12 on (12-15)
+Sending Initiate 1 12 on 15-12
+Recv: Initiate from host12 on (12-15)
+Sending ack on 15-12
+Recv: Connect from host6 on (6-15)
+Sending Initiate 1 12 on 15-6
+Recv: Connect from host9 on (9-15)
+Sending Initiate 1 12 on 15-9
+Recv: Ack from host9 on (9-15)
+Recv: Ack from host6 on (6-15)
+Recv: Test from host12 on (12-15 )
+Sending Test 1 12 on 15-1
+Sending Test 1 12 on 15-2
+Sending Test 1 12 on 15-3
+Sending Test 1 12 on 15-4
+Sending Test 1 12 on 15-5
+Sending Test 1 12 on 15-6
+Sending Test 1 12 on 15-7
+Sending Test 1 12 on 15-9
+Sending Test 1 12 on 15-10
+Sending Test 1 12 on 15-13
+Sending Test 1 12 on 15-14
+Sending Test 1 12 on 15-22
+Sending Test 1 12 on 15-23
+Sending Test 1 12 on 15-24
+Recv: Test from host14 on (14-15 )
+Sending Report 144 on 15-14
+Recv: Test from host4 on (4-15 )
+Sending Report 282 on 15-4
+Recv: Test from host3 on (3-15 )
+Sending Reject on 15-3
+Recv: Test from host5 on (5-15 )
+Sending Report 248 on 15-5
+Recv: Test from host22 on (22-15 )
+Sending Report 172 on 15-22
+Recv: Report 282 from host4 on (4-15
+Recv: Test from host13 on (13-15 )
+Sending Report 132 on 15-13
+Recv: Report 144 from host14 on (14-15
+Recv: Report 172 from host22 on (22-15
+Recv: Report 132 from host13 on (13-15
+Recv: Report 248 from host5 on (5-15
+Recv: Reject from host3 on (3-15
+Recv: Reject from host24 on (24-15
+Recv: Test from host10 on (10-15 )
+Sending Reject on 15-10
+Recv: Test from host7 on (7-15 )
+Sending Reject on 15-7
+Recv: Test from host2 on (2-15 )
+Sending Reject on 15-2
+Recv: Reject from host10 on (10-15
+Recv: Reject from host2 on (2-15
+Recv: Reject from host7 on (7-15
+Recv: Reject from host23 on (23-15
+Recv: Report 40 from host6 on (6-15
+Recv: Reject from host1 on (1-15
+Recv: Report 10 from host9 on (9-15
+Doing procedure end of test
+Sending Report 10 on 15-12
+Recv: Changeroot from host12 on (12-15
+Doing procedure changeroot
+Sending Changeroot on 15-9
+Recv: Initiate from host9 on (9-15)
+Sending Initiate 2 4 on 15-6
+Sending Initiate 2 4 on 15-12
+Recv: Ack from host6 on (6-15)
+Recv: Test from host4 on (4-15 )
+Sending Reject on 15-4
+Recv: Ack from host12 on (12-15)
+Sending Ack on 15-9
+Recv: Test from host9 on (9-15 )
+Sending Test 2 4 on 15-5
+Sending Test 2 4 on 15-6
+Sending Test 2 4 on 15-12
+Sending Test 2 4 on 15-13
+Sending Test 2 4 on 15-14
+Sending Test 2 4 on 15-22
+Recv: Reject from host5 on (5-15
+Recv: Reject from host13 on (13-15
+Recv: Reject from host22 on (22-15
+Recv: Reject from host14 on (14-15
+Recv: Report 10000 from host6 on (6-15
+Recv: Report 10000 from host12 on (12-15
+Doing procedure end of test
+Sending Report 10000 on 15-9

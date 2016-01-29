@@ -1,0 +1,110 @@
+Recv: Connect from host23 on (23-27)
+Sending Initiate 1 23 on 27-23
+Recv: Initiate from host23 on (23-27)
+Sending ack on 27-23
+Recv: Test from host16 on (16-27 )
+Sending Report 218 on 27-16
+Recv: Test from host23 on (23-27 )
+Sending Test 1 23 on 27-0
+Sending Test 1 23 on 27-1
+Sending Test 1 23 on 27-3
+Sending Test 1 23 on 27-5
+Sending Test 1 23 on 27-9
+Sending Test 1 23 on 27-13
+Sending Test 1 23 on 27-14
+Sending Test 1 23 on 27-15
+Sending Test 1 23 on 27-16
+Sending Test 1 23 on 27-18
+Sending Test 1 23 on 27-19
+Sending Test 1 23 on 27-20
+Sending Test 1 23 on 27-25
+Sending Test 1 23 on 27-26
+Sending Test 1 23 on 27-29
+Recv: Test from host1 on (1-27 )
+Sending Report 146 on 27-1
+Recv: Test from host3 on (3-27 )
+Sending Report 306 on 27-3
+Recv: Test from host9 on (9-27 )
+Sending Report 78 on 27-9
+Recv: Test from host14 on (14-27 )
+Sending Report 113 on 27-14
+Recv: Test from host20 on (20-27 )
+Sending Report 365 on 27-20
+Recv: Test from host18 on (18-27 )
+Sending Report 423 on 27-18
+Recv: Report 306 from host3 on (3-27
+Recv: Report 146 from host1 on (1-27
+Recv: Test from host5 on (5-27 )
+Sending Report 84 on 27-5
+Recv: Report 78 from host9 on (9-27
+Recv: Report 218 from host16 on (16-27
+Recv: Report 423 from host18 on (18-27
+Recv: Report 113 from host14 on (14-27
+Recv: Report 84 from host5 on (5-27
+Recv: Report 365 from host20 on (20-27
+Recv: Report 294 from host25 on (25-27
+Recv: Test from host0 on (0-27 )
+Sending Report 231 on 27-0
+Recv: Report 231 from host0 on (0-27
+Recv: Test from host13 on (13-27 )
+Sending Reject on 27-13
+Recv: Test from host25 on (25-27 )
+Sending Report 294 on 27-25
+Recv: Reject from host13 on (13-27
+Recv: Report 284 from host19 on (19-27
+Recv: Report 396 from host29 on (29-27
+Recv: Test from host19 on (19-27 )
+Sending Report 284 on 27-19
+Recv: Report 286 from host26 on (26-27
+Recv: Test from host29 on (29-27 )
+Sending Report 396 on 27-29
+Recv: Report 105 from host15 on (15-27
+Doing procedure end of test
+Sending Report 78 on 27-23
+Recv: Test from host26 on (26-27 )
+Sending Report 286 on 27-26
+Recv: Test from host15 on (15-27 )
+Sending Report 105 on 27-15
+Recv: Initiate from host23 on (23-27)
+Sending ack on 27-23
+Recv: Test from host19 on (19-27 )
+Sending Reject on 27-19
+Recv: Test from host18 on (18-27 )
+Sending Reject on 27-18
+Recv: Test from host1 on (1-27 )
+Sending Reject on 27-1
+Recv: Test from host3 on (3-27 )
+Sending Reject on 27-3
+Recv: Test from host23 on (23-27 )
+Sending Test 2 12 on 27-0
+Sending Test 2 12 on 27-5
+Sending Test 2 12 on 27-9
+Sending Test 2 12 on 27-14
+Sending Test 2 12 on 27-15
+Sending Test 2 12 on 27-16
+Sending Test 2 12 on 27-20
+Sending Test 2 12 on 27-25
+Sending Test 2 12 on 27-26
+Sending Test 2 12 on 27-29
+Recv: Test from host20 on (20-27 )
+Sending Reject on 27-20
+Recv: Test from host9 on (9-27 )
+Sending Reject on 27-9
+Recv: Reject from host14 on (14-27
+Recv: Test from host5 on (5-27 )
+Sending Reject on 27-5
+Recv: Reject from host9 on (9-27
+Recv: Reject from host16 on (16-27
+Recv: Reject from host25 on (25-27
+Recv: Reject from host26 on (26-27
+Recv: Reject from host5 on (5-27
+Recv: Reject from host20 on (20-27
+Recv: Test from host0 on (0-27 )
+Sending Reject on 27-0
+Recv: Test from host29 on (29-27 )
+Sending Reject on 27-29
+Recv: Reject from host0 on (0-27
+Recv: Reject from host29 on (29-27
+Recv: Reject from host15 on (15-27
+Doing procedure end of test
+Sending Report 10000 on 27-23

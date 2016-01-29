@@ -1,0 +1,108 @@
+Recv: Connect from host10 on (10-17)
+Sending Initiate 1 10 on 17-10
+Recv: Connect from host14 on (14-17)
+place received message at the end of the queue
+Recv: Test from host2 on (2-17 )
+Place the received message a the end of the queue
+Recv: Connect from host16 on (16-17)
+place received message at the end of the queue
+Recv: Initiate from host10 on (10-17)
+Sending ack on 17-10
+Recv: Connect from host14 on (14-17)
+Sending Initiate 1 10 on 17-14
+Recv: Test from host2 on (2-17 )
+Sending Report 140 on 17-2
+Recv: Connect from host16 on (16-17)
+Sending Initiate 1 10 on 17-16
+Recv: Ack from host14 on (14-17)
+Recv: Ack from host16 on (16-17)
+Recv: Test from host10 on (10-17 )
+Sending Test 1 10 on 17-2
+Sending Test 1 10 on 17-3
+Sending Test 1 10 on 17-4
+Sending Test 1 10 on 17-5
+Sending Test 1 10 on 17-6
+Sending Test 1 10 on 17-9
+Sending Test 1 10 on 17-14
+Sending Test 1 10 on 17-16
+Sending Test 1 10 on 17-19
+Sending Test 1 10 on 17-21
+Sending Test 1 10 on 17-22
+Sending Test 1 10 on 17-24
+Sending Test 1 10 on 17-25
+Sending Test 1 10 on 17-26
+Recv: Test from host3 on (3-17 )
+Sending Report 292 on 17-3
+Recv: Report 140 from host2 on (2-17
+Recv: Report 401 from host21 on (21-17
+Recv: Test from host6 on (6-17 )
+Sending Report 171 on 17-6
+Recv: Report 350 from host9 on (9-17
+Recv: Test from host9 on (9-17 )
+Sending Report 350 on 17-9
+Recv: Report 292 from host3 on (3-17
+Recv: Report 110 from host5 on (5-17
+Recv: Report 171 from host6 on (6-17
+Recv: Report 212 from host22 on (22-17
+Recv: Test from host5 on (5-17 )
+Sending Report 110 on 17-5
+Recv: Report 191 from host25 on (25-17
+Recv: Test from host22 on (22-17 )
+Sending Report 212 on 17-22
+Recv: Test from host24 on (24-17 )
+Sending Report 123 on 17-24
+Recv: Report 123 from host24 on (24-17
+Recv: Test from host21 on (21-17 )
+Sending Report 401 on 17-21
+Recv: Report 116 from host4 on (4-17
+Recv: Test from host4 on (4-17 )
+Sending Report 116 on 17-4
+Recv: Test from host25 on (25-17 )
+Sending Report 191 on 17-25
+Recv: Report 120 from host16 on (16-17
+Recv: Test from host19 on (19-17 )
+Sending Report 57 on 17-19
+Recv: Report 57 from host19 on (19-17
+Recv: Report 81 from host14 on (14-17
+Recv: Report 312 from host26 on (26-17
+Doing procedure end of test
+Sending Report 57 on 17-10
+Recv: Test from host26 on (26-17 )
+Sending Report 312 on 17-26
+Recv: Initiate from host10 on (10-17)
+Sending Initiate 2 12 on 17-14
+Sending Initiate 2 12 on 17-16
+Recv: Test from host2 on (2-17 )
+Sending Reject on 17-2
+Recv: Ack from host14 on (14-17)
+Recv: Test from host6 on (6-17 )
+Sending Reject on 17-6
+Recv: Test from host19 on (19-17 )
+Sending Reject on 17-19
+Recv: Ack from host16 on (16-17)
+Sending Ack on 17-10
+Recv: Test from host22 on (22-17 )
+Sending Reject on 17-22
+Recv: Test from host24 on (24-17 )
+Sending Reject on 17-24
+Recv: Test from host21 on (21-17 )
+Sending Reject on 17-21
+Recv: Test from host3 on (3-17 )
+Sending Reject on 17-3
+Recv: Test from host5 on (5-17 )
+Sending Reject on 17-5
+Recv: Test from host4 on (4-17 )
+Sending Reject on 17-4
+Recv: Test from host9 on (9-17 )
+Sending Reject on 17-9
+Recv: Test from host10 on (10-17 )
+Sending Test 2 12 on 17-14
+Sending Test 2 12 on 17-16
+Sending Test 2 12 on 17-25
+Sending Test 2 12 on 17-26
+Recv: Reject from host25 on (25-17
+Recv: Reject from host26 on (26-17
+Recv: Report 10000 from host14 on (14-17
+Recv: Report 10000 from host16 on (16-17
+Doing procedure end of test
+Sending Report 10000 on 17-10

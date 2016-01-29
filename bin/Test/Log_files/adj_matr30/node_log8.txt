@@ -1,0 +1,74 @@
+Recv: Initiate from host2 on (2-8)
+Sending ack on 8-2
+Recv: Test from host2 on (2-8 )
+Sending Test 1 2 on 8-3
+Sending Test 1 2 on 8-4
+Sending Test 1 2 on 8-6
+Sending Test 1 2 on 8-10
+Sending Test 1 2 on 8-14
+Sending Test 1 2 on 8-15
+Sending Test 1 2 on 8-16
+Sending Test 1 2 on 8-19
+Sending Test 1 2 on 8-20
+Sending Test 1 2 on 8-21
+Sending Test 1 2 on 8-28
+Recv: Report 59 from host10 on (10-8
+Recv: Report 357 from host21 on (21-8
+Recv: Test from host6 on (6-8 )
+Sending Reject on 8-6
+Recv: Report 81 from host14 on (14-8
+Recv: Test from host10 on (10-8 )
+Sending Report 59 on 8-10
+Recv: Report 216 from host16 on (16-8
+Recv: Test from host28 on (28-8 )
+Sending Reject on 8-28
+Recv: Report 92 from host20 on (20-8
+Recv: Report 410 from host3 on (3-8
+Recv: Test from host3 on (3-8 )
+Sending Report 410 on 8-3
+Recv: Test from host20 on (20-8 )
+Sending Report 92 on 8-20
+Recv: Test from host14 on (14-8 )
+Sending Report 81 on 8-14
+Recv: Test from host16 on (16-8 )
+Sending Report 216 on 8-16
+Recv: Reject from host28 on (28-8
+Recv: Reject from host6 on (6-8
+Recv: Test from host21 on (21-8 )
+Sending Report 357 on 8-21
+Recv: Test from host4 on (4-8 )
+Sending Report 405 on 8-4
+Recv: Report 405 from host4 on (4-8
+Recv: Report 347 from host19 on (19-8
+Recv: Test from host19 on (19-8 )
+Sending Report 347 on 8-19
+Recv: Test from host15 on (15-8 )
+Sending Report 179 on 8-15
+Recv: Report 179 from host15 on (15-8
+Doing procedure end of test
+Sending Report 59 on 8-2
+Recv: Initiate from host2 on (2-8)
+Sending ack on 8-2
+Recv: Test from host2 on (2-8 )
+Sending Test 2 12 on 8-3
+Sending Test 2 12 on 8-4
+Sending Test 2 12 on 8-10
+Sending Test 2 12 on 8-14
+Sending Test 2 12 on 8-15
+Sending Test 2 12 on 8-16
+Sending Test 2 12 on 8-19
+Sending Test 2 12 on 8-20
+Sending Test 2 12 on 8-21
+Recv: Reject from host3 on (3-8
+Recv: Reject from host4 on (4-8
+Recv: Reject from host10 on (10-8
+Recv: Test from host19 on (19-8 )
+Sending Reject on 8-19
+Recv: Reject from host14 on (14-8
+Recv: Reject from host20 on (20-8
+Recv: Reject from host21 on (21-8
+Recv: Reject from host16 on (16-8
+Recv: Reject from host19 on (19-8
+Recv: Reject from host15 on (15-8
+Doing procedure end of test
+Sending Report 10000 on 8-2

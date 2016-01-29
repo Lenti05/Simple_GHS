@@ -1,0 +1,72 @@
+Recv: Connect from host0 on (0-25)
+Sending Initiate 1 0 on 25-0
+Recv: Initiate from host0 on (0-25)
+Sending ack on 25-0
+Recv: Test from host12 on (12-25 )
+Sending Report 156 on 25-12
+Recv: Test from host11 on (11-25 )
+Sending Report 250 on 25-11
+Recv: Test from host23 on (23-25 )
+Sending Report 221 on 25-23
+Recv: Test from host1 on (1-25 )
+Sending Report 88 on 25-1
+Recv: Test from host17 on (17-25 )
+Sending Report 191 on 25-17
+Recv: Test from host14 on (14-25 )
+Sending Report 200 on 25-14
+Recv: Test from host5 on (5-25 )
+Sending Report 300 on 25-5
+Recv: Test from host27 on (27-25 )
+Sending Report 294 on 25-27
+Recv: Test from host24 on (24-25 )
+Sending Report 112 on 25-24
+Recv: Test from host0 on (0-25 )
+Sending Test 1 0 on 25-1
+Sending Test 1 0 on 25-5
+Sending Test 1 0 on 25-11
+Sending Test 1 0 on 25-12
+Sending Test 1 0 on 25-14
+Sending Test 1 0 on 25-17
+Sending Test 1 0 on 25-19
+Sending Test 1 0 on 25-23
+Sending Test 1 0 on 25-24
+Sending Test 1 0 on 25-27
+Sending Test 1 0 on 25-29
+Recv: Report 88 from host1 on (1-25
+Recv: Report 300 from host5 on (5-25
+Recv: Report 156 from host12 on (12-25
+Recv: Report 200 from host14 on (14-25
+Recv: Report 221 from host23 on (23-25
+Recv: Report 112 from host24 on (24-25
+Recv: Report 294 from host27 on (27-25
+Recv: Report 191 from host17 on (17-25
+Recv: Report 250 from host11 on (11-25
+Recv: Test from host19 on (19-25 )
+Sending Reject on 25-19
+Recv: Reject from host29 on (29-25
+Recv: Reject from host19 on (19-25
+Doing procedure end of test
+Sending Report 88 on 25-0
+Recv: Initiate from host0 on (0-25)
+Sending ack on 25-0
+Recv: Test from host12 on (12-25 )
+Sending Reject on 25-12
+Recv: Test from host11 on (11-25 )
+Sending Reject on 25-11
+Recv: Test from host1 on (1-25 )
+Sending Reject on 25-1
+Recv: Test from host24 on (24-25 )
+Sending Reject on 25-24
+Recv: Test from host23 on (23-25 )
+Sending Reject on 25-23
+Recv: Test from host5 on (5-25 )
+Sending Reject on 25-5
+Recv: Test from host27 on (27-25 )
+Sending Reject on 25-27
+Recv: Test from host14 on (14-25 )
+Sending Reject on 25-14
+Recv: Test from host17 on (17-25 )
+Sending Reject on 25-17
+Recv: Test from host0 on (0-25 )
+Doing procedure end of test
+Sending Report 10000 on 25-0

@@ -1,0 +1,290 @@
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Initiate from host10 on (10-3)
+Sending ack on 3-10
+Recv: Test from host0 on (0-3 )
+Sending Report 43 on 3-0
+Recv: Test from host7 on (7-3 )
+Sending Reject on 3-7
+Recv: Test from host16 on (16-3 )
+Sending Reject on 3-16
+Recv: Test from host13 on (13-3 )
+Sending Report 127 on 3-13
+Recv: Test from host10 on (10-3 )
+Sending Test 1 7 on 3-0
+Sending Test 1 7 on 3-1
+Sending Test 1 7 on 3-4
+Sending Test 1 7 on 3-6
+Sending Test 1 7 on 3-8
+Sending Test 1 7 on 3-13
+Recv: Report 43 from host0 on (0-3
+Recv: Test from host4 on (4-3 )
+Sending Report 38 on 3-4
+Recv: Test from host8 on (8-3 )
+Sending Report 56 on 3-8
+Recv: Report 38 from host4 on (4-3
+Recv: Report 159 from host6 on (6-3
+Recv: Report 127 from host13 on (13-3
+Recv: Report 56 from host8 on (8-3
+Recv: Report 74 from host1 on (1-3
+Doing procedure end of test
+Sending Report 38 on 3-10
+Recv: Test from host6 on (6-3 )
+Sending Report 159 on 3-6
+Recv: Test from host1 on (1-3 )
+Sending Report 74 on 3-1
+Recv: Initiate from host10 on (10-3)
+Sending ack on 3-10
+Recv: Test from host0 on (0-3 )
+Sending Report 43 on 3-0
+Recv: Test from host4 on (4-3 )
+Sending Reject on 3-4
+Recv: Test from host8 on (8-3 )
+Sending Reject on 3-8
+Recv: Test from host13 on (13-3 )
+Sending Reject on 3-13
+Recv: Test from host10 on (10-3 )
+Sending Test 2 4 on 3-0
+Sending Test 2 4 on 3-1
+Sending Test 2 4 on 3-6
+Recv: Test from host1 on (1-3 )
+Sending Reject on 3-1
+Recv: Report 43 from host0 on (0-3
+Recv: Test from host6 on (6-3 )
+Sending Reject on 3-6
+Recv: Reject from host1 on (1-3
+Recv: Reject from host6 on (6-3
+Doing procedure end of test
+Sending Report 43 on 3-10
+Recv: Connect from host0 on (0-3)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-3)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-3)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-3)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-3)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-3)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-3)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-3)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-3)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-3)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-3)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-3)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-3)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-3)
+place received message at the end of the queue
+Recv: Changeroot from host10 on (10-3
+Doing procedure changeroot
+Sending Connect 2 on (3-0)
+Recv: Connect from host0 on (0-3)
+Sending Initiate 3 0 on 3-0
+Recv: Initiate from host0 on (0-3)
+Sending Initiate 3 0 on 3-10
+Recv: Ack from host10 on (10-3)
+Sending Ack on 3-0
+Recv: Test from host0 on (0-3 )
+Sending Test 3 0 on 3-10
+Recv: Report 10000 from host10 on (10-3
+Doing procedure end of test
+Sending Report 10000 on 3-0
+Recv: Finished from host 0on 0-3
+Edge(3-0): branch
+Edge(3-1): rejected
+Edge(3-4): rejected
+Edge(3-6): rejected
+Edge(3-7): rejected
+Edge(3-8): rejected
+Edge(3-10): branch
+Sending finished on 3-10
+Edge(3-13): rejected
+Edge(3-16): rejected
+Terminating process: host 3

@@ -1,0 +1,49 @@
+Recv: Test from host0 on (0-2 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-2 )
+Place the received message a the end of the queue
+Recv: Connect from host3 on (3-2)
+Sending Initiate 1 2 on 2-3
+Recv: Test from host0 on (0-2 )
+Place the received message a the end of the queue
+Recv: Initiate from host3 on (3-2)
+Recv: Test from host1 on (1-2 )
+Sending Report 5 on 2-1
+Recv: Test from host0 on (0-2 )
+Sending Report 3 on 2-0
+Recv: Ack from host3 on (3-2)
+Cluster2is formed with level 1
+Sending Test 1 2 on 2-0
+Sending Test 1 2 on 2-1
+Sending Test 1 2 on 2-3
+Recv: Report 3 from host0 on (0-2
+Recv: Report 5 from host1 on (1-2
+Recv: Connect from host0 on (0-2)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-2)
+place received message at the end of the queue
+Recv: Report 4 from host3 on (3-2
+Doing procedure end of test
+Doing procedure changeroot
+Sending Connect 1 on (2-0)
+Recv: Connect from host0 on (0-2)
+Sending Initiate 2 0 on 2-0
+Recv: Initiate from host0 on (0-2)
+Sending Initiate 2 0 on 2-3
+Recv: Ack from host3 on (3-2)
+Sending Ack on 2-0
+Recv: Test from host0 on (0-2 )
+Sending Test 2 0 on 2-1
+Sending Test 2 0 on 2-3
+Recv: Test from host1 on (1-2 )
+Sending Reject on 2-1
+Recv: Reject from host1 on (1-2
+Recv: Report 10000 from host3 on (3-2
+Doing procedure end of test
+Sending Report 10000 on 2-0
+Recv: Finished from host 0on 0-2
+Edge(2-0): branch
+Edge(2-1): rejected
+Edge(2-3): branch
+Sending finished on 2-3
+Terminating process: host 2

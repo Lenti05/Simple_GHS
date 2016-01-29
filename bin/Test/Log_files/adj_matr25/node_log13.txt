@@ -1,0 +1,69 @@
+Recv: Connect from host18 on (18-13)
+Sending Initiate 1 13 on 13-18
+Recv: Initiate from host18 on (18-13)
+Recv: Ack from host18 on (18-13)
+Cluster13is formed with level 1
+Sending Test 1 13 on 13-1
+Sending Test 1 13 on 13-4
+Sending Test 1 13 on 13-7
+Sending Test 1 13 on 13-11
+Sending Test 1 13 on 13-14
+Sending Test 1 13 on 13-15
+Sending Test 1 13 on 13-17
+Sending Test 1 13 on 13-18
+Sending Test 1 13 on 13-19
+Sending Test 1 13 on 13-24
+Recv: Test from host14 on (14-13 )
+Sending Report 94 on 13-14
+Recv: Test from host4 on (4-13 )
+Sending Report 291 on 13-4
+Recv: Report 291 from host4 on (4-13
+Recv: Test from host15 on (15-13 )
+Sending Report 132 on 13-15
+Recv: Report 94 from host14 on (14-13
+Recv: Report 162 from host17 on (17-13
+Recv: Report 247 from host11 on (11-13
+Recv: Report 201 from host19 on (19-13
+Recv: Report 108 from host24 on (24-13
+Recv: Test from host7 on (7-13 )
+Sending Report 97 on 13-7
+Recv: Test from host11 on (11-13 )
+Sending Report 247 on 13-11
+Recv: Test from host19 on (19-13 )
+Sending Report 201 on 13-19
+Recv: Report 132 from host15 on (15-13
+Recv: Test from host17 on (17-13 )
+Sending Report 162 on 13-17
+Recv: Test from host24 on (24-13 )
+Sending Report 108 on 13-24
+Recv: Report 97 from host7 on (7-13
+Recv: Report 120 from host1 on (1-13
+Recv: Report 13 from host18 on (18-13
+Doing procedure end of test
+Doing procedure changeroot
+Sending Changeroot on 13-18
+Recv: Test from host1 on (1-13 )
+Sending Report 120 on 13-1
+Recv: Initiate from host18 on (18-13)
+Sending ack on 13-18
+Recv: Test from host4 on (4-13 )
+Sending Reject on 13-4
+Recv: Test from host19 on (19-13 )
+Sending Reject on 13-19
+Recv: Test from host24 on (24-13 )
+Sending Reject on 13-24
+Recv: Test from host11 on (11-13 )
+Sending Reject on 13-11
+Recv: Test from host15 on (15-13 )
+Sending Reject on 13-15
+Recv: Test from host14 on (14-13 )
+Sending Reject on 13-14
+Recv: Test from host7 on (7-13 )
+Sending Reject on 13-7
+Recv: Test from host17 on (17-13 )
+Sending Reject on 13-17
+Recv: Test from host1 on (1-13 )
+Sending Reject on 13-1
+Recv: Test from host18 on (18-13 )
+Doing procedure end of test
+Sending Report 10000 on 13-18

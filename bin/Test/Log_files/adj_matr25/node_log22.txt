@@ -1,0 +1,102 @@
+Recv: Connect from host5 on (5-22)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-22)
+Sending Initiate 1 21 on 22-21
+Recv: Test from host8 on (8-22 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-22 )
+Place the received message a the end of the queue
+Recv: Initiate from host21 on (21-22)
+Sending ack on 22-21
+Recv: Connect from host5 on (5-22)
+Sending Initiate 1 21 on 22-5
+Recv: Test from host8 on (8-22 )
+Sending Report 73 on 22-8
+Recv: Test from host12 on (12-22 )
+Sending Report 151 on 22-12
+Recv: Ack from host5 on (5-22)
+Recv: Test from host21 on (21-22 )
+Sending Test 1 21 on 22-3
+Sending Test 1 21 on 22-5
+Sending Test 1 21 on 22-6
+Sending Test 1 21 on 22-7
+Sending Test 1 21 on 22-8
+Sending Test 1 21 on 22-10
+Sending Test 1 21 on 22-11
+Sending Test 1 21 on 22-12
+Sending Test 1 21 on 22-15
+Sending Test 1 21 on 22-17
+Sending Test 1 21 on 22-19
+Sending Test 1 21 on 22-24
+Recv: Report 243 from host6 on (6-22
+Recv: Report 73 from host8 on (8-22
+Recv: Test from host3 on (3-22 )
+Sending Report 182 on 22-3
+Recv: Report 197 from host17 on (17-22
+Recv: Report 236 from host19 on (19-22
+Recv: Test from host15 on (15-22 )
+Sending Report 172 on 22-15
+Recv: Report 225 from host24 on (24-22
+Recv: Report 151 from host12 on (12-22
+Recv: Test from host6 on (6-22 )
+Sending Report 243 on 22-6
+Recv: Report 214 from host11 on (11-22
+Recv: Report 182 from host3 on (3-22
+Recv: Test from host10 on (10-22 )
+Sending Report 154 on 22-10
+Recv: Report 172 from host15 on (15-22
+Recv: Report 154 from host10 on (10-22
+Recv: Test from host11 on (11-22 )
+Sending Report 214 on 22-11
+Recv: Test from host7 on (7-22 )
+Sending Report 35 on 22-7
+Recv: Test from host19 on (19-22 )
+Sending Report 236 on 22-19
+Recv: Report 35 from host7 on (7-22
+Recv: Test from host17 on (17-22 )
+Sending Report 197 on 22-17
+Recv: Test from host24 on (24-22 )
+Sending Report 225 on 22-24
+Recv: Report 114 from host5 on (5-22
+Doing procedure end of test
+Sending Report 35 on 22-21
+Recv: Changeroot from host21 on (21-22
+Doing procedure changeroot
+Sending Connect 1 on (22-7)
+Recv: Initiate from host7 on (7-22)
+Sending Initiate 2 4 on 22-5
+Sending Initiate 2 4 on 22-21
+Recv: Ack from host5 on (5-22)
+Recv: Ack from host21 on (21-22)
+Sending Ack on 22-7
+Recv: Test from host19 on (19-22 )
+Sending Reject on 22-19
+Recv: Test from host24 on (24-22 )
+Sending Reject on 22-24
+Recv: Test from host11 on (11-22 )
+Sending Reject on 22-11
+Recv: Test from host15 on (15-22 )
+Sending Reject on 22-15
+Recv: Test from host6 on (6-22 )
+Sending Reject on 22-6
+Recv: Test from host3 on (3-22 )
+Sending Reject on 22-3
+Recv: Test from host12 on (12-22 )
+Sending Reject on 22-12
+Recv: Test from host8 on (8-22 )
+Sending Reject on 22-8
+Recv: Test from host7 on (7-22 )
+Sending Test 2 4 on 22-5
+Sending Test 2 4 on 22-10
+Sending Test 2 4 on 22-17
+Sending Test 2 4 on 22-21
+Recv: Test from host10 on (10-22 )
+Sending Reject on 22-10
+Recv: Test from host17 on (17-22 )
+Sending Reject on 22-17
+Recv: Reject from host10 on (10-22
+Recv: Reject from host17 on (17-22
+Recv: Report 10000 from host5 on (5-22
+Recv: Report 10000 from host21 on (21-22
+Doing procedure end of test
+Sending Report 10000 on 22-7

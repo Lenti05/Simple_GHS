@@ -1,0 +1,254 @@
+Recv: Connect from host9 on (9-18)
+Sending Initiate 1 9 on 18-9
+Recv: Initiate from host9 on (9-18)
+Sending ack on 18-9
+Recv: Test from host9 on (9-18 )
+Sending Test 1 9 on 18-6
+Sending Test 1 9 on 18-7
+Sending Test 1 9 on 18-11
+Sending Test 1 9 on 18-12
+Sending Test 1 9 on 18-13
+Sending Test 1 9 on 18-17
+Sending Test 1 9 on 18-19
+Sending Test 1 9 on 18-21
+Sending Test 1 9 on 18-24
+Sending Test 1 9 on 18-27
+Sending Test 1 9 on 18-28
+Sending Test 1 9 on 18-29
+Sending Test 1 9 on 18-32
+Sending Test 1 9 on 18-33
+Sending Test 1 9 on 18-34
+Sending Test 1 9 on 18-35
+Sending Test 1 9 on 18-36
+Sending Test 1 9 on 18-37
+Sending Test 1 9 on 18-38
+Sending Test 1 9 on 18-41
+Sending Test 1 9 on 18-43
+Sending Test 1 9 on 18-44
+Recv: Test from host17 on (17-18 )
+Sending Report 796 on 18-17
+Recv: Test from host6 on (6-18 )
+Sending Report 696 on 18-6
+Recv: Report 696 from host6 on (6-18
+Recv: Test from host38 on (38-18 )
+Sending Report 49 on 18-38
+Recv: Report 770 from host24 on (24-18
+Recv: Report 352 from host19 on (19-18
+Recv: Report 280 from host33 on (33-18
+Recv: Report 796 from host17 on (17-18
+Recv: Report 760 from host27 on (27-18
+Recv: Report 165 from host35 on (35-18
+Recv: Report 144 from host28 on (28-18
+Recv: Report 487 from host13 on (13-18
+Recv: Report 276 from host36 on (36-18
+Recv: Report 49 from host38 on (38-18
+Recv: Test from host21 on (21-18 )
+Sending Report 650 on 18-21
+Recv: Test from host24 on (24-18 )
+Sending Report 770 on 18-24
+Recv: Report 650 from host21 on (21-18
+Recv: Test from host37 on (37-18 )
+Sending Report 721 on 18-37
+Recv: Report 721 from host37 on (37-18
+Recv: Test from host43 on (43-18 )
+Sending Report 127 on 18-43
+Recv: Test from host44 on (44-18 )
+Sending Report 826 on 18-44
+Recv: Test from host11 on (11-18 )
+Sending Report 375 on 18-11
+Recv: Test from host34 on (34-18 )
+Sending Report 117 on 18-34
+Recv: Report 375 from host11 on (11-18
+Recv: Report 848 from host7 on (7-18
+Recv: Test from host29 on (29-18 )
+Sending Report 368 on 18-29
+Recv: Report 826 from host44 on (44-18
+Recv: Test from host7 on (7-18 )
+Sending Report 848 on 18-7
+Recv: Report 368 from host29 on (29-18
+Recv: Test from host32 on (32-18 )
+Sending Report 489 on 18-32
+Recv: Test from host19 on (19-18 )
+Sending Report 352 on 18-19
+Recv: Report 127 from host43 on (43-18
+Recv: Test from host41 on (41-18 )
+Sending Report 926 on 18-41
+Recv: Report 489 from host32 on (32-18
+Recv: Test from host36 on (36-18 )
+Sending Report 276 on 18-36
+Recv: Report 926 from host41 on (41-18
+Recv: Test from host33 on (33-18 )
+Sending Report 280 on 18-33
+Recv: Test from host13 on (13-18 )
+Sending Report 487 on 18-13
+Recv: Test from host28 on (28-18 )
+Sending Report 144 on 18-28
+Recv: Test from host27 on (27-18 )
+Sending Report 760 on 18-27
+Recv: Test from host35 on (35-18 )
+Sending Report 165 on 18-35
+Recv: Report 117 from host34 on (34-18
+Recv: Report 181 from host12 on (12-18
+Doing procedure end of test
+Sending Report 49 on 18-9
+Recv: Test from host12 on (12-18 )
+Sending Report 181 on 18-12
+Recv: Initiate from host9 on (9-18)
+Sending ack on 18-9
+Recv: Test from host6 on (6-18 )
+Sending Report 696 on 18-6
+Recv: Test from host41 on (41-18 )
+Sending Report 926 on 18-41
+Recv: Test from host32 on (32-18 )
+Sending Report 489 on 18-32
+Recv: Test from host9 on (9-18 )
+Sending Test 2 9 on 18-6
+Sending Test 2 9 on 18-7
+Sending Test 2 9 on 18-11
+Sending Test 2 9 on 18-12
+Sending Test 2 9 on 18-13
+Sending Test 2 9 on 18-17
+Sending Test 2 9 on 18-19
+Sending Test 2 9 on 18-21
+Sending Test 2 9 on 18-24
+Sending Test 2 9 on 18-27
+Sending Test 2 9 on 18-28
+Sending Test 2 9 on 18-29
+Sending Test 2 9 on 18-32
+Sending Test 2 9 on 18-33
+Sending Test 2 9 on 18-34
+Sending Test 2 9 on 18-35
+Sending Test 2 9 on 18-36
+Sending Test 2 9 on 18-37
+Sending Test 2 9 on 18-38
+Sending Test 2 9 on 18-41
+Sending Test 2 9 on 18-43
+Sending Test 2 9 on 18-44
+Recv: Report 696 from host6 on (6-18
+Recv: Report 848 from host7 on (7-18
+Recv: Report 650 from host21 on (21-18
+Recv: Reject from host24 on (24-18
+Recv: Reject from host29 on (29-18
+Recv: Report 489 from host32 on (32-18
+Recv: Reject from host33 on (33-18
+Recv: Report 165 from host35 on (35-18
+Recv: Reject from host43 on (43-18
+Recv: Report 926 from host41 on (41-18
+Recv: Test from host38 on (38-18 )
+Sending Reject on 18-38
+Recv: Reject from host38 on (38-18
+Recv: Report 144 from host28 on (28-18
+Recv: Test from host7 on (7-18 )
+Sending Report 848 on 18-7
+Recv: Test from host28 on (28-18 )
+Sending Report 144 on 18-28
+Recv: Test from host35 on (35-18 )
+Sending Report 165 on 18-35
+Recv: Test from host21 on (21-18 )
+Sending Report 650 on 18-21
+Recv: Report 796 from host17 on (17-18
+Recv: Report 117 from host34 on (34-18
+Recv: Report 721 from host37 on (37-18
+Recv: Report 375 from host11 on (11-18
+Recv: Report 352 from host19 on (19-18
+Recv: Report 276 from host36 on (36-18
+Recv: Report 181 from host12 on (12-18
+Recv: Report 487 from host13 on (13-18
+Recv: Report 760 from host27 on (27-18
+Recv: Test from host37 on (37-18 )
+Sending Report 721 on 18-37
+Recv: Report 826 from host44 on (44-18
+Doing procedure end of test
+Sending Report 117 on 18-9
+Recv: Test from host34 on (34-18 )
+Sending Report 117 on 18-34
+Recv: Test from host17 on (17-18 )
+Sending Report 796 on 18-17
+Recv: Test from host36 on (36-18 )
+Sending Report 276 on 18-36
+Recv: Test from host19 on (19-18 )
+Sending Report 352 on 18-19
+Recv: Test from host11 on (11-18 )
+Sending Report 375 on 18-11
+Recv: Test from host13 on (13-18 )
+Sending Report 487 on 18-13
+Recv: Test from host27 on (27-18 )
+Sending Report 760 on 18-27
+Recv: Initiate from host9 on (9-18)
+Sending ack on 18-9
+Recv: Test from host12 on (12-18 )
+Sending Report 181 on 18-12
+Recv: Test from host44 on (44-18 )
+Sending Report 826 on 18-44
+Recv: Test from host9 on (9-18 )
+Sending Test 3 9 on 18-6
+Sending Test 3 9 on 18-7
+Sending Test 3 9 on 18-11
+Sending Test 3 9 on 18-12
+Sending Test 3 9 on 18-13
+Sending Test 3 9 on 18-17
+Sending Test 3 9 on 18-19
+Sending Test 3 9 on 18-21
+Sending Test 3 9 on 18-27
+Sending Test 3 9 on 18-28
+Sending Test 3 9 on 18-32
+Sending Test 3 9 on 18-34
+Sending Test 3 9 on 18-35
+Sending Test 3 9 on 18-36
+Sending Test 3 9 on 18-37
+Sending Test 3 9 on 18-41
+Sending Test 3 9 on 18-44
+Recv: Reject from host6 on (6-18
+Recv: Reject from host7 on (7-18
+Recv: Test from host41 on (41-18 )
+Sending Reject on 18-41
+Recv: Test from host21 on (21-18 )
+Sending Reject on 18-21
+Recv: Test from host28 on (28-18 )
+Sending Reject on 18-28
+Recv: Reject from host32 on (32-18
+Recv: Reject from host21 on (21-18
+Recv: Reject from host35 on (35-18
+Recv: Reject from host28 on (28-18
+Recv: Reject from host41 on (41-18
+Recv: Reject from host34 on (34-18
+Recv: Reject from host19 on (19-18
+Recv: Test from host36 on (36-18 )
+Sending Reject on 18-36
+Recv: Reject from host37 on (37-18
+Recv: Test from host27 on (27-18 )
+Sending Reject on 18-27
+Recv: Reject from host27 on (27-18
+Recv: Reject from host11 on (11-18
+Recv: Reject from host12 on (12-18
+Recv: Reject from host13 on (13-18
+Recv: Reject from host17 on (17-18
+Recv: Reject from host36 on (36-18
+Recv: Reject from host44 on (44-18
+Doing procedure end of test
+Sending Report 10000 on 18-9
+Recv: Finished from host 9on 9-18
+Edge(18-6): rejected
+Edge(18-7): rejected
+Edge(18-9): branch
+Edge(18-11): rejected
+Edge(18-12): rejected
+Edge(18-13): rejected
+Edge(18-17): rejected
+Edge(18-19): rejected
+Edge(18-21): rejected
+Edge(18-24): rejected
+Edge(18-27): rejected
+Edge(18-28): rejected
+Edge(18-29): rejected
+Edge(18-32): rejected
+Edge(18-33): rejected
+Edge(18-34): rejected
+Edge(18-35): rejected
+Edge(18-36): rejected
+Edge(18-37): rejected
+Edge(18-38): rejected
+Edge(18-41): rejected
+Edge(18-43): rejected
+Edge(18-44): rejected
+Terminating process: host 18

@@ -1,0 +1,172 @@
+Recv: Connect from host20 on (20-4)
+Sending Initiate 1 4 on 4-20
+Recv: Test from host12 on (12-4 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-4 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-4 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-4 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-4 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-4 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-4 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-4 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-4 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-4 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-4 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-4 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-4 )
+Place the received message a the end of the queue
+Recv: Initiate from host20 on (20-4)
+Recv: Ack from host20 on (20-4)
+Cluster4is formed with level 1
+Sending Test 1 4 on 4-2
+Sending Test 1 4 on 4-6
+Sending Test 1 4 on 4-7
+Sending Test 1 4 on 4-9
+Sending Test 1 4 on 4-10
+Sending Test 1 4 on 4-12
+Sending Test 1 4 on 4-13
+Sending Test 1 4 on 4-15
+Sending Test 1 4 on 4-16
+Sending Test 1 4 on 4-17
+Sending Test 1 4 on 4-18
+Sending Test 1 4 on 4-19
+Sending Test 1 4 on 4-20
+Sending Test 1 4 on 4-24
+Recv: Test from host12 on (12-4 )
+Sending Report 139 on 4-12
+Recv: Report 165 from host6 on (6-4
+Recv: Report 252 from host9 on (9-4
+Recv: Report 139 from host12 on (12-4
+Recv: Report 146 from host18 on (18-4
+Recv: Report 25 from host19 on (19-4
+Recv: Report 10 from host24 on (24-4
+Recv: Reject from host17 on (17-4
+Recv: Test from host15 on (15-4 )
+Sending Report 282 on 4-15
+Recv: Test from host13 on (13-4 )
+Sending Report 291 on 4-13
+Recv: Test from host6 on (6-4 )
+Sending Report 165 on 4-6
+Recv: Test from host16 on (16-4 )
+Sending Report 257 on 4-16
+Recv: Test from host9 on (9-4 )
+Sending Report 252 on 4-9
+Recv: Report 291 from host13 on (13-4
+Recv: Test from host7 on (7-4 )
+Sending Report 206 on 4-7
+Recv: Test from host2 on (2-4 )
+Sending Report 283 on 4-2
+Recv: Report 282 from host15 on (15-4
+Recv: Test from host10 on (10-4 )
+Sending Report 158 on 4-10
+Recv: Test from host18 on (18-4 )
+Sending Report 146 on 4-18
+Recv: Report 257 from host16 on (16-4
+Recv: Test from host19 on (19-4 )
+Sending Report 25 on 4-19
+Recv: Report 158 from host10 on (10-4
+Recv: Test from host24 on (24-4 )
+Sending Report 10 on 4-24
+Recv: Report 206 from host7 on (7-4
+Recv: Report 283 from host2 on (2-4
+Recv: Report 55 from host20 on (20-4
+Doing procedure end of test
+Doing procedure changeroot
+Sending Connect 1 on (4-24)
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-4)
+Sending Initiate 2 4 on 4-24
+Recv: Connect from host19 on (19-4)
+place received message at the end of the queue
+Recv: Initiate from host24 on (24-4)
+Sending Initiate 2 4 on 4-20
+Recv: Connect from host19 on (19-4)
+Sending Initiate 2 4 on 4-19
+Recv: Ack from host19 on (19-4)
+Recv: Ack from host20 on (20-4)
+Cluster4is formed with level 2
+Sending Test 2 4 on 4-2
+Sending Test 2 4 on 4-6
+Sending Test 2 4 on 4-7
+Sending Test 2 4 on 4-9
+Sending Test 2 4 on 4-10
+Sending Test 2 4 on 4-12
+Sending Test 2 4 on 4-13
+Sending Test 2 4 on 4-15
+Sending Test 2 4 on 4-16
+Sending Test 2 4 on 4-18
+Sending Test 2 4 on 4-19
+Sending Test 2 4 on 4-20
+Sending Test 2 4 on 4-24
+Recv: Reject from host2 on (2-4
+Recv: Reject from host7 on (7-4
+Recv: Reject from host6 on (6-4
+Recv: Reject from host9 on (9-4
+Recv: Reject from host10 on (10-4
+Recv: Reject from host12 on (12-4
+Recv: Reject from host13 on (13-4
+Recv: Reject from host15 on (15-4
+Recv: Reject from host16 on (16-4
+Recv: Reject from host18 on (18-4
+Recv: Ack from host24 on (24-4)
+Recv: Report 10000 from host19 on (19-4
+Recv: Report 10000 from host20 on (20-4
+Recv: Report 10000 from host24 on (24-4
+Doing procedure end of test
+Node 4 is leader

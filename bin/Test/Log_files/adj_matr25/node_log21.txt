@@ -1,0 +1,81 @@
+Recv: Test from host8 on (8-21 )
+Place the received message a the end of the queue
+Recv: Connect from host22 on (22-21)
+Sending Initiate 1 21 on 21-22
+Recv: Test from host8 on (8-21 )
+Place the received message a the end of the queue
+Recv: Test from host8 on (8-21 )
+Place the received message a the end of the queue
+Recv: Test from host8 on (8-21 )
+Place the received message a the end of the queue
+Recv: Test from host8 on (8-21 )
+Place the received message a the end of the queue
+Recv: Test from host8 on (8-21 )
+Place the received message a the end of the queue
+Recv: Test from host8 on (8-21 )
+Place the received message a the end of the queue
+Recv: Test from host8 on (8-21 )
+Place the received message a the end of the queue
+Recv: Initiate from host22 on (22-21)
+Recv: Test from host8 on (8-21 )
+Sending Report 101 on 21-8
+Recv: Ack from host22 on (22-21)
+Cluster21is formed with level 1
+Sending Test 1 21 on 21-0
+Sending Test 1 21 on 21-7
+Sending Test 1 21 on 21-8
+Sending Test 1 21 on 21-11
+Sending Test 1 21 on 21-17
+Sending Test 1 21 on 21-18
+Sending Test 1 21 on 21-20
+Sending Test 1 21 on 21-22
+Sending Test 1 21 on 21-24
+Recv: Test from host0 on (0-21 )
+Sending Report 54 on 21-0
+Recv: Report 54 from host0 on (0-21
+Recv: Report 261 from host11 on (11-21
+Recv: Report 101 from host8 on (8-21
+Recv: Report 176 from host18 on (18-21
+Recv: Report 203 from host17 on (17-21
+Recv: Report 66 from host24 on (24-21
+Recv: Test from host20 on (20-21 )
+Sending Report 178 on 21-20
+Recv: Report 178 from host20 on (20-21
+Recv: Test from host11 on (11-21 )
+Sending Report 261 on 21-11
+Recv: Test from host7 on (7-21 )
+Sending Report 113 on 21-7
+Recv: Report 113 from host7 on (7-21
+Recv: Test from host17 on (17-21 )
+Sending Report 203 on 21-17
+Recv: Test from host24 on (24-21 )
+Sending Report 66 on 21-24
+Recv: Test from host18 on (18-21 )
+Sending Report 176 on 21-18
+Recv: Report 35 from host22 on (22-21
+Doing procedure end of test
+Doing procedure changeroot
+Sending Changeroot on 21-22
+Recv: Initiate from host22 on (22-21)
+Sending ack on 21-22
+Recv: Test from host24 on (24-21 )
+Sending Reject on 21-24
+Recv: Test from host20 on (20-21 )
+Sending Reject on 21-20
+Recv: Test from host11 on (11-21 )
+Sending Reject on 21-11
+Recv: Test from host8 on (8-21 )
+Sending Reject on 21-8
+Recv: Test from host0 on (0-21 )
+Sending Reject on 21-0
+Recv: Test from host7 on (7-21 )
+Sending Reject on 21-7
+Recv: Test from host17 on (17-21 )
+Sending Reject on 21-17
+Recv: Test from host22 on (22-21 )
+Sending Test 2 4 on 21-18
+Recv: Test from host18 on (18-21 )
+Sending Reject on 21-18
+Recv: Reject from host18 on (18-21
+Doing procedure end of test
+Sending Report 10000 on 21-22

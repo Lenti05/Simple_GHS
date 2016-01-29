@@ -1,0 +1,84 @@
+Recv: Initiate from host7 on (7-12)
+Sending ack on 12-7
+Recv: Test from host7 on (7-12 )
+Sending Test 1 7 on 12-4
+Sending Test 1 7 on 12-6
+Sending Test 1 7 on 12-8
+Sending Test 1 7 on 12-9
+Sending Test 1 7 on 12-10
+Sending Test 1 7 on 12-15
+Sending Test 1 7 on 12-17
+Sending Test 1 7 on 12-19
+Recv: Test from host10 on (10-12 )
+Sending Reject on 12-10
+Recv: Test from host9 on (9-12 )
+Sending Report 49 on 12-9
+Recv: Report 112 from host4 on (4-12
+Recv: Report 57 from host6 on (6-12
+Recv: Test from host15 on (15-12 )
+Sending Report 164 on 12-15
+Recv: Reject from host10 on (10-12
+Recv: Report 36 from host19 on (19-12
+Recv: Test from host4 on (4-12 )
+Sending Report 112 on 12-4
+Recv: Test from host8 on (8-12 )
+Sending Report 181 on 12-8
+Recv: Test from host17 on (17-12 )
+Sending Report 167 on 12-17
+Recv: Report 181 from host8 on (8-12
+Recv: Report 49 from host9 on (9-12
+Recv: Test from host19 on (19-12 )
+Sending Report 36 on 12-19
+Recv: Report 167 from host17 on (17-12
+Recv: Report 164 from host15 on (15-12
+Doing procedure end of test
+Sending Report 36 on 12-7
+Recv: Test from host6 on (6-12 )
+Sending Report 57 on 12-6
+Recv: Initiate from host7 on (7-12)
+Sending ack on 12-7
+Recv: Test from host15 on (15-12 )
+Sending Report 164 on 12-15
+Recv: Test from host4 on (4-12 )
+Sending Reject on 12-4
+Recv: Test from host7 on (7-12 )
+Sending Test 2 4 on 12-6
+Sending Test 2 4 on 12-8
+Sending Test 2 4 on 12-9
+Sending Test 2 4 on 12-15
+Sending Test 2 4 on 12-17
+Sending Test 2 4 on 12-19
+Recv: Test from host9 on (9-12 )
+Sending Report 49 on 12-9
+Recv: Test from host8 on (8-12 )
+Sending Reject on 12-8
+Recv: Reject from host8 on (8-12
+Recv: Reject from host6 on (6-12
+Recv: Report 164 from host15 on (15-12
+Recv: Reject from host19 on (19-12
+Recv: Test from host17 on (17-12 )
+Sending Reject on 12-17
+Recv: Reject from host17 on (17-12
+Recv: Report 49 from host9 on (9-12
+Doing procedure end of test
+Sending Report 49 on 12-7
+Recv: Initiate from host7 on (7-12)
+Sending ack on 12-7
+Recv: Test from host15 on (15-12 )
+Sending Reject on 12-15
+Recv: Test from host7 on (7-12 )
+Sending Test 3 0 on 12-9
+Recv: Reject from host9 on (9-12
+Doing procedure end of test
+Sending Report 10000 on 12-7
+Recv: Finished from host 7on 7-12
+Edge(12-4): rejected
+Edge(12-6): rejected
+Edge(12-7): branch
+Edge(12-8): rejected
+Edge(12-9): rejected
+Edge(12-10): rejected
+Edge(12-15): rejected
+Edge(12-17): rejected
+Edge(12-19): rejected
+Terminating process: host 12

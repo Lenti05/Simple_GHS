@@ -1,0 +1,35 @@
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Connect from host2 on (2-3)
+Sending Initiate 1 2 on 3-2
+Recv: Test from host0 on (0-3 )
+Place the received message a the end of the queue
+Recv: Initiate from host2 on (2-3)
+Sending ack on 3-2
+Recv: Test from host0 on (0-3 )
+Sending Report 6 on 3-0
+Recv: Test from host1 on (1-3 )
+Sending Report 4 on 3-1
+Recv: Test from host2 on (2-3 )
+Sending Test 1 2 on 3-0
+Sending Test 1 2 on 3-1
+Recv: Report 4 from host1 on (1-3
+Recv: Report 6 from host0 on (0-3
+Doing procedure end of test
+Sending Report 4 on 3-2
+Recv: Initiate from host2 on (2-3)
+Sending ack on 3-2
+Recv: Test from host0 on (0-3 )
+Sending Reject on 3-0
+Recv: Test from host2 on (2-3 )
+Sending Test 2 0 on 3-1
+Recv: Test from host1 on (1-3 )
+Sending Reject on 3-1
+Recv: Reject from host1 on (1-3
+Doing procedure end of test
+Sending Report 10000 on 3-2
+Recv: Finished from host 2on 2-3
+Edge(3-0): rejected
+Edge(3-1): rejected
+Edge(3-2): branch
+Terminating process: host 3

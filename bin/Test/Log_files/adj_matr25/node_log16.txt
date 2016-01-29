@@ -1,0 +1,101 @@
+Recv: Connect from host19 on (19-16)
+Sending Initiate 1 16 on 16-19
+Recv: Test from host12 on (12-16 )
+Place the received message a the end of the queue
+Recv: Initiate from host19 on (19-16)
+Recv: Ack from host19 on (19-16)
+Cluster16is formed with level 1
+Sending Test 1 16 on 16-1
+Sending Test 1 16 on 16-2
+Sending Test 1 16 on 16-3
+Sending Test 1 16 on 16-4
+Sending Test 1 16 on 16-5
+Sending Test 1 16 on 16-9
+Sending Test 1 16 on 16-11
+Sending Test 1 16 on 16-12
+Sending Test 1 16 on 16-14
+Sending Test 1 16 on 16-17
+Sending Test 1 16 on 16-18
+Sending Test 1 16 on 16-19
+Sending Test 1 16 on 16-20
+Sending Test 1 16 on 16-23
+Recv: Test from host14 on (14-16 )
+Sending Report 167 on 16-14
+Recv: Test from host12 on (12-16 )
+Sending Report 185 on 16-12
+Recv: Test from host4 on (4-16 )
+Sending Report 257 on 16-4
+Recv: Test from host3 on (3-16 )
+Sending Report 129 on 16-3
+Recv: Test from host5 on (5-16 )
+Sending Report 141 on 16-5
+Recv: Report 257 from host4 on (4-16
+Recv: Test from host20 on (20-16 )
+Sending Report 286 on 16-20
+Recv: Report 129 from host3 on (3-16
+Recv: Report 185 from host12 on (12-16
+Recv: Report 167 from host14 on (14-16
+Recv: Report 118 from host17 on (17-16
+Recv: Test from host9 on (9-16 )
+Sending Report 219 on 16-9
+Recv: Test from host2 on (2-16 )
+Sending Report 75 on 16-2
+Recv: Report 219 from host9 on (9-16
+Recv: Test from host11 on (11-16 )
+Sending Report 62 on 16-11
+Recv: Test from host17 on (17-16 )
+Sending Report 118 on 16-17
+Recv: Test from host18 on (18-16 )
+Sending Report 140 on 16-18
+Recv: Report 286 from host20 on (20-16
+Recv: Report 62 from host11 on (11-16
+Recv: Report 75 from host2 on (2-16
+Recv: Report 141 from host5 on (5-16
+Recv: Report 202 from host23 on (23-16
+Recv: Report 140 from host18 on (18-16
+Recv: Report 125 from host1 on (1-16
+Recv: Test from host23 on (23-16 )
+Sending Report 202 on 16-23
+Recv: Report 25 from host19 on (19-16
+Doing procedure end of test
+Doing procedure changeroot
+Sending Changeroot on 16-19
+Recv: Test from host1 on (1-16 )
+Sending Report 125 on 16-1
+Recv: Initiate from host19 on (19-16)
+Sending ack on 16-19
+Recv: Test from host4 on (4-16 )
+Sending Reject on 16-4
+Recv: Test from host19 on (19-16 )
+Sending Test 2 4 on 16-1
+Sending Test 2 4 on 16-2
+Sending Test 2 4 on 16-3
+Sending Test 2 4 on 16-5
+Sending Test 2 4 on 16-9
+Sending Test 2 4 on 16-11
+Sending Test 2 4 on 16-12
+Sending Test 2 4 on 16-14
+Sending Test 2 4 on 16-17
+Sending Test 2 4 on 16-18
+Sending Test 2 4 on 16-20
+Sending Test 2 4 on 16-23
+Recv: Test from host20 on (20-16 )
+Sending Reject on 16-20
+Recv: Test from host9 on (9-16 )
+Sending Reject on 16-9
+Recv: Reject from host9 on (9-16
+Recv: Test from host11 on (11-16 )
+Sending Reject on 16-11
+Recv: Reject from host1 on (1-16
+Recv: Reject from host5 on (5-16
+Recv: Reject from host2 on (2-16
+Recv: Reject from host3 on (3-16
+Recv: Reject from host12 on (12-16
+Recv: Reject from host14 on (14-16
+Recv: Reject from host23 on (23-16
+Recv: Reject from host11 on (11-16
+Recv: Reject from host20 on (20-16
+Recv: Reject from host17 on (17-16
+Recv: Reject from host18 on (18-16
+Doing procedure end of test
+Sending Report 10000 on 16-19

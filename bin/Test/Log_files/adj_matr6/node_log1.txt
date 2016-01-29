@@ -1,0 +1,27 @@
+Node1 Doing process WAKEUP
+Edge(1-0) set to BRANCH
+Fragment-level: 0
+Node-state: sleeping -> alive
+Sending Connect on (1-0)
+Recv: Connect from host0 on (0-1)
+Sending Initiate 1 0 on 1-0
+Recv: Initiate from host0 on (0-1)
+Sending ack on 1-0
+Recv: Test from host0 on (0-1 )
+Sending Test 1 0 on 1-4
+Recv: Report 9 from host4 on (4-1
+Doing procedure end of test
+Sending Report 9 on 1-0
+Recv: Test from host4 on (4-1 )
+Sending Report 9 on 1-4
+Recv: Initiate from host0 on (0-1)
+Sending ack on 1-0
+Recv: Test from host0 on (0-1 )
+Sending Test 2 0 on 1-4
+Recv: Reject from host4 on (4-1
+Doing procedure end of test
+Sending Report 10000 on 1-0
+Recv: Finished from host 0on 0-1
+Edge(1-0): branch
+Edge(1-4): rejected
+Terminating process: host 1

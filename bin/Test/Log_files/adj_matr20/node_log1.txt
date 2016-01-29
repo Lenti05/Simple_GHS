@@ -1,0 +1,113 @@
+Recv: Test from host7 on (7-1 )
+Place the received message a the end of the queue
+Recv: Test from host13 on (13-1 )
+Place the received message a the end of the queue
+Recv: Test from host7 on (7-1 )
+Place the received message a the end of the queue
+Recv: Test from host13 on (13-1 )
+Place the received message a the end of the queue
+Recv: Test from host7 on (7-1 )
+Place the received message a the end of the queue
+Recv: Test from host13 on (13-1 )
+Place the received message a the end of the queue
+Recv: Test from host7 on (7-1 )
+Place the received message a the end of the queue
+Recv: Test from host13 on (13-1 )
+Place the received message a the end of the queue
+Recv: Test from host7 on (7-1 )
+Place the received message a the end of the queue
+Recv: Test from host13 on (13-1 )
+Place the received message a the end of the queue
+Recv: Test from host7 on (7-1 )
+Place the received message a the end of the queue
+Recv: Test from host13 on (13-1 )
+Place the received message a the end of the queue
+Recv: Test from host7 on (7-1 )
+Place the received message a the end of the queue
+Recv: Test from host13 on (13-1 )
+Place the received message a the end of the queue
+Recv: Test from host7 on (7-1 )
+Place the received message a the end of the queue
+Recv: Test from host13 on (13-1 )
+Place the received message a the end of the queue
+Recv: Test from host9 on (9-1 )
+Place the received message a the end of the queue
+Recv: Test from host7 on (7-1 )
+Place the received message a the end of the queue
+Recv: Test from host13 on (13-1 )
+Place the received message a the end of the queue
+Recv: Test from host15 on (15-1 )
+Place the received message a the end of the queue
+Recv: Initiate from host13 on (13-1)
+Sending ack on 1-13
+Recv: Test from host3 on (3-1 )
+Sending Report 74 on 1-3
+Recv: Test from host8 on (8-1 )
+Sending Reject on 1-8
+Recv: Test from host9 on (9-1 )
+Sending Report 144 on 1-9
+Recv: Test from host14 on (14-1 )
+Sending Report 176 on 1-14
+Recv: Test from host5 on (5-1 )
+Sending Reject on 1-5
+Recv: Test from host7 on (7-1 )
+Sending Report 168 on 1-7
+Recv: Test from host13 on (13-1 )
+Sending Test 1 13 on 1-3
+Sending Test 1 13 on 1-7
+Sending Test 1 13 on 1-9
+Sending Test 1 13 on 1-14
+Sending Test 1 13 on 1-15
+Recv: Test from host15 on (15-1 )
+Sending Report 120 on 1-15
+Recv: Report 168 from host7 on (7-1
+Recv: Report 74 from host3 on (3-1
+Recv: Report 120 from host15 on (15-1
+Recv: Report 144 from host9 on (9-1
+Recv: Report 176 from host14 on (14-1
+Doing procedure end of test
+Sending Report 74 on 1-13
+Recv: Initiate from host13 on (13-1)
+Sending ack on 1-13
+Recv: Test from host15 on (15-1 )
+Sending Report 120 on 1-15
+Recv: Test from host7 on (7-1 )
+Sending Reject on 1-7
+Recv: Test from host14 on (14-1 )
+Sending Report 176 on 1-14
+Recv: Test from host9 on (9-1 )
+Sending Report 144 on 1-9
+Recv: Test from host13 on (13-1 )
+Sending Test 2 4 on 1-3
+Sending Test 2 4 on 1-9
+Sending Test 2 4 on 1-14
+Sending Test 2 4 on 1-15
+Recv: Test from host3 on (3-1 )
+Sending Reject on 1-3
+Recv: Reject from host3 on (3-1
+Recv: Report 176 from host14 on (14-1
+Recv: Report 120 from host15 on (15-1
+Recv: Report 144 from host9 on (9-1
+Doing procedure end of test
+Sending Report 120 on 1-13
+Recv: Initiate from host13 on (13-1)
+Sending ack on 1-13
+Recv: Test from host15 on (15-1 )
+Sending Reject on 1-15
+Recv: Test from host14 on (14-1 )
+Sending Reject on 1-14
+Recv: Test from host9 on (9-1 )
+Sending Reject on 1-9
+Recv: Test from host13 on (13-1 )
+Doing procedure end of test
+Sending Report 10000 on 1-13
+Recv: Finished from host 13on 13-1
+Edge(1-3): rejected
+Edge(1-5): rejected
+Edge(1-7): rejected
+Edge(1-8): rejected
+Edge(1-9): rejected
+Edge(1-13): branch
+Edge(1-14): rejected
+Edge(1-15): rejected
+Terminating process: host 1

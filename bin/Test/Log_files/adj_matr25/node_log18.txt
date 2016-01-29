@@ -1,0 +1,121 @@
+Recv: Connect from host13 on (13-18)
+Sending Initiate 1 13 on 18-13
+Recv: Initiate from host13 on (13-18)
+Sending ack on 18-13
+Recv: Test from host8 on (8-18 )
+Sending Report 127 on 18-8
+Recv: Test from host0 on (0-18 )
+Sending Report 61 on 18-0
+Recv: Test from host4 on (4-18 )
+Sending Report 146 on 18-4
+Recv: Test from host21 on (21-18 )
+Sending Report 176 on 18-21
+Recv: Test from host3 on (3-18 )
+Sending Report 13 on 18-3
+Recv: Test from host5 on (5-18 )
+Sending Report 114 on 18-5
+Recv: Test from host13 on (13-18 )
+Sending Test 1 13 on 18-0
+Sending Test 1 13 on 18-1
+Sending Test 1 13 on 18-2
+Sending Test 1 13 on 18-3
+Sending Test 1 13 on 18-4
+Sending Test 1 13 on 18-5
+Sending Test 1 13 on 18-7
+Sending Test 1 13 on 18-8
+Sending Test 1 13 on 18-9
+Sending Test 1 13 on 18-10
+Sending Test 1 13 on 18-11
+Sending Test 1 13 on 18-16
+Sending Test 1 13 on 18-19
+Sending Test 1 13 on 18-20
+Sending Test 1 13 on 18-21
+Recv: Test from host20 on (20-18 )
+Sending Report 103 on 18-20
+Recv: Test from host16 on (16-18 )
+Sending Report 140 on 18-16
+Recv: Report 61 from host0 on (0-18
+Recv: Test from host10 on (10-18 )
+Sending Report 213 on 18-10
+Recv: Test from host7 on (7-18 )
+Sending Report 195 on 18-7
+Recv: Test from host9 on (9-18 )
+Sending Report 179 on 18-9
+Recv: Test from host2 on (2-18 )
+Sending Report 227 on 18-2
+Recv: Report 13 from host3 on (3-18
+Recv: Report 146 from host4 on (4-18
+Recv: Test from host11 on (11-18 )
+Sending Report 153 on 18-11
+Recv: Test from host19 on (19-18 )
+Sending Report 231 on 18-19
+Recv: Report 127 from host8 on (8-18
+Recv: Report 213 from host10 on (10-18
+Recv: Report 179 from host9 on (9-18
+Recv: Report 227 from host2 on (2-18
+Recv: Report 153 from host11 on (11-18
+Recv: Report 114 from host5 on (5-18
+Recv: Report 231 from host19 on (19-18
+Recv: Report 195 from host7 on (7-18
+Recv: Report 176 from host21 on (21-18
+Recv: Report 140 from host16 on (16-18
+Recv: Report 103 from host20 on (20-18
+Recv: Report 47 from host1 on (1-18
+Doing procedure end of test
+Sending Report 13 on 18-13
+Recv: Test from host1 on (1-18 )
+Sending Report 47 on 18-1
+Recv: Changeroot from host13 on (13-18
+Doing procedure changeroot
+Sending Connect 1 on (18-3)
+Recv: Initiate from host3 on (3-18)
+Sending Initiate 2 4 on 18-13
+Recv: Ack from host13 on (13-18)
+Sending Ack on 18-3
+Recv: Test from host4 on (4-18 )
+Sending Reject on 18-4
+Recv: Test from host19 on (19-18 )
+Sending Reject on 18-19
+Recv: Test from host20 on (20-18 )
+Sending Reject on 18-20
+Recv: Test from host9 on (9-18 )
+Sending Reject on 18-9
+Recv: Test from host16 on (16-18 )
+Sending Reject on 18-16
+Recv: Test from host11 on (11-18 )
+Sending Reject on 18-11
+Recv: Test from host8 on (8-18 )
+Sending Reject on 18-8
+Recv: Test from host3 on (3-18 )
+Sending Test 2 4 on 18-0
+Sending Test 2 4 on 18-1
+Sending Test 2 4 on 18-2
+Sending Test 2 4 on 18-5
+Sending Test 2 4 on 18-7
+Sending Test 2 4 on 18-10
+Sending Test 2 4 on 18-13
+Sending Test 2 4 on 18-21
+Recv: Test from host0 on (0-18 )
+Sending Reject on 18-0
+Recv: Test from host7 on (7-18 )
+Sending Reject on 18-7
+Recv: Test from host2 on (2-18 )
+Sending Reject on 18-2
+Recv: Test from host10 on (10-18 )
+Sending Reject on 18-10
+Recv: Test from host1 on (1-18 )
+Sending Reject on 18-1
+Recv: Test from host5 on (5-18 )
+Sending Reject on 18-5
+Recv: Reject from host0 on (0-18
+Recv: Reject from host1 on (1-18
+Recv: Reject from host2 on (2-18
+Recv: Test from host21 on (21-18 )
+Sending Reject on 18-21
+Recv: Reject from host5 on (5-18
+Recv: Reject from host7 on (7-18
+Recv: Reject from host10 on (10-18
+Recv: Reject from host21 on (21-18
+Recv: Report 10000 from host13 on (13-18
+Doing procedure end of test
+Sending Report 10000 on 18-3

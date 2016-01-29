@@ -1,0 +1,35 @@
+Recv: Test from host6 on (6-8 )
+Place the received message a the end of the queue
+Recv: Test from host6 on (6-8 )
+Place the received message a the end of the queue
+Recv: Test from host6 on (6-8 )
+Place the received message a the end of the queue
+Recv: Test from host6 on (6-8 )
+Place the received message a the end of the queue
+Recv: Connect from host9 on (9-8)
+Sending Initiate 1 8 on 8-9
+Recv: Test from host6 on (6-8 )
+Place the received message a the end of the queue
+Recv: Initiate from host9 on (9-8)
+Recv: Test from host6 on (6-8 )
+Sending Report 13 on 8-6
+Recv: Ack from host9 on (9-8)
+Cluster8is formed with level 1
+Sending Test 1 8 on 8-6
+Sending Test 1 8 on 8-9
+Recv: Report 13 from host6 on (6-8
+Recv: Report 12 from host9 on (9-8
+Doing procedure end of test
+Doing procedure changeroot
+Sending Changeroot on 8-9
+Recv: Initiate from host9 on (9-8)
+Sending ack on 8-9
+Recv: Test from host6 on (6-8 )
+Sending Reject on 8-6
+Recv: Test from host9 on (9-8 )
+Doing procedure end of test
+Sending Report 10000 on 8-9
+Recv: Finished from host 9on 9-8
+Edge(8-6): rejected
+Edge(8-9): branch
+Terminating process: host 8

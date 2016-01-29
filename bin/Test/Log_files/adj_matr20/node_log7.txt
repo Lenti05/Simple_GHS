@@ -1,0 +1,237 @@
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host10 on (10-7)
+Sending Initiate 1 7 on 7-10
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Connect from host16 on (16-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Connect from host16 on (16-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Connect from host16 on (16-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Connect from host16 on (16-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Connect from host16 on (16-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Connect from host16 on (16-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Connect from host16 on (16-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Connect from host16 on (16-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Connect from host16 on (16-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Connect from host16 on (16-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Connect from host16 on (16-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Connect from host16 on (16-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Connect from host16 on (16-7)
+place received message at the end of the queue
+Recv: Test from host2 on (2-7 )
+Place the received message a the end of the queue
+Recv: Connect from host12 on (12-7)
+place received message at the end of the queue
+Recv: Connect from host16 on (16-7)
+place received message at the end of the queue
+Recv: Initiate from host10 on (10-7)
+Recv: Test from host2 on (2-7 )
+Sending Report 90 on 7-2
+Recv: Connect from host12 on (12-7)
+Sending Initiate 1 7 on 7-12
+Recv: Connect from host16 on (16-7)
+Sending Initiate 1 7 on 7-16
+Recv: Ack from host10 on (10-7)
+Cluster7is formed with level 1
+Sending Test 1 7 on 7-1
+Sending Test 1 7 on 7-2
+Sending Test 1 7 on 7-3
+Sending Test 1 7 on 7-4
+Sending Test 1 7 on 7-5
+Sending Test 1 7 on 7-6
+Sending Test 1 7 on 7-10
+Sending Test 1 7 on 7-12
+Sending Test 1 7 on 7-13
+Sending Test 1 7 on 7-14
+Sending Test 1 7 on 7-16
+Recv: Ack from host12 on (12-7)
+Recv: Ack from host16 on (16-7)
+Recv: Report 146 from host14 on (14-7
+Recv: Report 90 from host2 on (2-7
+Recv: Reject from host3 on (3-7
+Recv: Test from host13 on (13-7 )
+Sending Report 172 on 7-13
+Recv: Report 30 from host4 on (4-7
+Recv: Report 126 from host6 on (6-7
+Recv: Report 172 from host13 on (13-7
+Recv: Test from host4 on (4-7 )
+Sending Report 30 on 7-4
+Recv: Report 179 from host5 on (5-7
+Recv: Test from host5 on (5-7 )
+Sending Report 179 on 7-5
+Recv: Test from host14 on (14-7 )
+Sending Report 146 on 7-14
+Recv: Report 55 from host16 on (16-7
+Recv: Test from host6 on (6-7 )
+Sending Report 126 on 7-6
+Recv: Report 31 from host10 on (10-7
+Recv: Report 168 from host1 on (1-7
+Recv: Test from host1 on (1-7 )
+Sending Report 168 on 7-1
+Recv: Report 36 from host12 on (12-7
+Doing procedure end of test
+Doing procedure changeroot
+Sending Connect 1 on (7-4)
+Recv: Connect from host4 on (4-7)
+Sending Initiate 2 4 on 7-4
+Recv: Initiate from host4 on (4-7)
+Sending Initiate 2 4 on 7-10
+Sending Initiate 2 4 on 7-12
+Sending Initiate 2 4 on 7-16
+Recv: Ack from host12 on (12-7)
+Recv: Ack from host16 on (16-7)
+Recv: Ack from host10 on (10-7)
+Sending Ack on 7-4
+Recv: Test from host2 on (2-7 )
+Sending Report 90 on 7-2
+Recv: Test from host4 on (4-7 )
+Sending Test 2 4 on 7-1
+Sending Test 2 4 on 7-2
+Sending Test 2 4 on 7-5
+Sending Test 2 4 on 7-6
+Sending Test 2 4 on 7-10
+Sending Test 2 4 on 7-12
+Sending Test 2 4 on 7-13
+Sending Test 2 4 on 7-14
+Sending Test 2 4 on 7-16
+Recv: Reject from host1 on (1-7
+Recv: Reject from host5 on (5-7
+Recv: Report 90 from host2 on (2-7
+Recv: Reject from host6 on (6-7
+Recv: Reject from host13 on (13-7
+Recv: Test from host14 on (14-7 )
+Sending Report 146 on 7-14
+Recv: Report 146 from host14 on (14-7
+Recv: Report 55 from host16 on (16-7
+Recv: Report 49 from host12 on (12-7
+Recv: Report 43 from host10 on (10-7
+Doing procedure end of test
+Sending Report 43 on 7-4
+Recv: Changeroot from host4 on (4-7
+Doing procedure changeroot
+Sending Changeroot on 7-10
+Recv: Initiate from host10 on (10-7)
+Sending Initiate 3 0 on 7-4
+Sending Initiate 3 0 on 7-12
+Sending Initiate 3 0 on 7-16
+Recv: Ack from host12 on (12-7)
+Recv: Ack from host16 on (16-7)
+Recv: Ack from host4 on (4-7)
+Sending Ack on 7-10
+Recv: Test from host2 on (2-7 )
+Sending Reject on 7-2
+Recv: Test from host10 on (10-7 )
+Sending Test 3 0 on 7-4
+Sending Test 3 0 on 7-12
+Sending Test 3 0 on 7-14
+Sending Test 3 0 on 7-16
+Recv: Reject from host14 on (14-7
+Recv: Report 10000 from host12 on (12-7
+Recv: Report 10000 from host16 on (16-7
+Recv: Report 10000 from host4 on (4-7
+Doing procedure end of test
+Sending Report 10000 on 7-10
+Recv: Finished from host 10on 10-7
+Edge(7-1): rejected
+Edge(7-2): rejected
+Edge(7-3): rejected
+Edge(7-4): branch
+Sending finished on 7-4
+Edge(7-5): rejected
+Edge(7-6): rejected
+Edge(7-10): branch
+Edge(7-12): branch
+Sending finished on 7-12
+Edge(7-13): rejected
+Edge(7-14): rejected
+Edge(7-16): branch
+Sending finished on 7-16
+Terminating process: host 7

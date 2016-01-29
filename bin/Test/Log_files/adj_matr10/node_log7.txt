@@ -1,0 +1,49 @@
+Recv: Connect from host6 on (6-7)
+Sending Initiate 1 6 on 7-6
+Recv: Initiate from host6 on (6-7)
+Sending ack on 7-6
+Recv: Test from host6 on (6-7 )
+Sending Test 1 6 on 7-2
+Sending Test 1 6 on 7-9
+Recv: Test from host2 on (2-7 )
+Sending Report 10 on 7-2
+Recv: Report 10 from host2 on (2-7
+Recv: Report 12 from host9 on (9-7
+Doing procedure end of test
+Sending Report 10 on 7-6
+Recv: Test from host9 on (9-7 )
+Sending Report 12 on 7-9
+Recv: Connect from host9 on (9-7)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-7)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-7)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-7)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-7)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-7)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-7)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-7)
+place received message at the end of the queue
+Recv: Initiate from host6 on (6-7)
+Sending ack on 7-6
+Recv: Connect from host9 on (9-7)
+Sending Initiate 2 0 on 7-9
+Recv: Ack from host9 on (9-7)
+Recv: Test from host6 on (6-7 )
+Sending Test 2 0 on 7-2
+Sending Test 2 0 on 7-9
+Recv: Reject from host2 on (2-7
+Recv: Report 10000 from host9 on (9-7
+Doing procedure end of test
+Sending Report 10000 on 7-6
+Recv: Finished from host 6on 6-7
+Edge(7-2): rejected
+Edge(7-6): branch
+Edge(7-9): branch
+Sending finished on 7-9
+Terminating process: host 7

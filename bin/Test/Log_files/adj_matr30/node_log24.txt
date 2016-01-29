@@ -1,0 +1,123 @@
+Recv: Connect from host1 on (1-24)
+Sending Initiate 1 1 on 24-1
+Recv: Test from host2 on (2-24 )
+Place the received message a the end of the queue
+Recv: Initiate from host1 on (1-24)
+Sending ack on 24-1
+Recv: Test from host12 on (12-24 )
+Sending Report 262 on 24-12
+Recv: Test from host2 on (2-24 )
+Sending Report 56 on 24-2
+Recv: Test from host10 on (10-24 )
+Sending Report 246 on 24-10
+Recv: Test from host16 on (16-24 )
+Sending Report 204 on 24-16
+Recv: Test from host11 on (11-24 )
+Sending Report 433 on 24-11
+Recv: Test from host23 on (23-24 )
+Sending Report 242 on 24-23
+Recv: Test from host1 on (1-24 )
+Sending Test 1 1 on 24-0
+Sending Test 1 1 on 24-2
+Sending Test 1 1 on 24-6
+Sending Test 1 1 on 24-10
+Sending Test 1 1 on 24-11
+Sending Test 1 1 on 24-12
+Sending Test 1 1 on 24-13
+Sending Test 1 1 on 24-14
+Sending Test 1 1 on 24-15
+Sending Test 1 1 on 24-16
+Sending Test 1 1 on 24-17
+Sending Test 1 1 on 24-18
+Sending Test 1 1 on 24-19
+Sending Test 1 1 on 24-21
+Sending Test 1 1 on 24-23
+Sending Test 1 1 on 24-25
+Recv: Test from host17 on (17-24 )
+Sending Report 123 on 24-17
+Recv: Test from host14 on (14-24 )
+Sending Report 392 on 24-14
+Recv: Test from host6 on (6-24 )
+Sending Report 142 on 24-6
+Recv: Test from host18 on (18-24 )
+Sending Report 38 on 24-18
+Recv: Report 56 from host2 on (2-24
+Recv: Report 142 from host6 on (6-24
+Recv: Report 246 from host10 on (10-24
+Recv: Report 433 from host11 on (11-24
+Recv: Report 262 from host12 on (12-24
+Recv: Report 38 from host18 on (18-24
+Recv: Report 123 from host17 on (17-24
+Recv: Report 204 from host16 on (16-24
+Recv: Report 112 from host25 on (25-24
+Recv: Report 242 from host23 on (23-24
+Recv: Report 392 from host14 on (14-24
+Recv: Test from host21 on (21-24 )
+Sending Report 419 on 24-21
+Recv: Report 419 from host21 on (21-24
+Recv: Test from host0 on (0-24 )
+Sending Report 364 on 24-0
+Recv: Test from host13 on (13-24 )
+Sending Report 267 on 24-13
+Recv: Test from host25 on (25-24 )
+Sending Report 112 on 24-25
+Recv: Report 364 from host0 on (0-24
+Recv: Report 267 from host13 on (13-24
+Recv: Report 243 from host19 on (19-24
+Recv: Test from host19 on (19-24 )
+Sending Report 243 on 24-19
+Recv: Report 280 from host15 on (15-24
+Doing procedure end of test
+Sending Report 38 on 24-1
+Recv: Changeroot from host1 on (1-24
+Doing procedure changeroot
+Sending Connect 1 on (24-18)
+Recv: Test from host15 on (15-24 )
+Sending Report 280 on 24-15
+Recv: Initiate from host18 on (18-24)
+Sending Initiate 2 12 on 24-1
+Recv: Ack from host1 on (1-24)
+Sending Ack on 24-18
+Recv: Test from host12 on (12-24 )
+Sending Reject on 24-12
+Recv: Test from host2 on (2-24 )
+Sending Reject on 24-2
+Recv: Test from host6 on (6-24 )
+Sending Reject on 24-6
+Recv: Test from host19 on (19-24 )
+Sending Reject on 24-19
+Recv: Test from host18 on (18-24 )
+Sending Test 2 12 on 24-0
+Sending Test 2 12 on 24-1
+Sending Test 2 12 on 24-10
+Sending Test 2 12 on 24-11
+Sending Test 2 12 on 24-13
+Sending Test 2 12 on 24-14
+Sending Test 2 12 on 24-15
+Sending Test 2 12 on 24-16
+Sending Test 2 12 on 24-17
+Sending Test 2 12 on 24-21
+Sending Test 2 12 on 24-23
+Sending Test 2 12 on 24-25
+Recv: Test from host11 on (11-24 )
+Sending Reject on 24-11
+Recv: Reject from host10 on (10-24
+Recv: Reject from host11 on (11-24
+Recv: Reject from host14 on (14-24
+Recv: Reject from host16 on (16-24
+Recv: Reject from host17 on (17-24
+Recv: Test from host21 on (21-24 )
+Sending Reject on 24-21
+Recv: Test from host23 on (23-24 )
+Sending Reject on 24-23
+Recv: Reject from host21 on (21-24
+Recv: Reject from host23 on (23-24
+Recv: Reject from host25 on (25-24
+Recv: Test from host0 on (0-24 )
+Sending Reject on 24-0
+Recv: Reject from host13 on (13-24
+Recv: Reject from host15 on (15-24
+Recv: Reject from host0 on (0-24
+Recv: Report 10000 from host1 on (1-24
+Doing procedure end of test
+Sending Report 10000 on 24-18

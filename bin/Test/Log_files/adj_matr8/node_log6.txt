@@ -1,0 +1,44 @@
+Recv: Test from host1 on (1-6 )
+Place the received message a the end of the queue
+Recv: Test from host1 on (1-6 )
+Place the received message a the end of the queue
+Recv: Test from host1 on (1-6 )
+Place the received message a the end of the queue
+Recv: Test from host1 on (1-6 )
+Place the received message a the end of the queue
+Recv: Test from host1 on (1-6 )
+Place the received message a the end of the queue
+Recv: Test from host1 on (1-6 )
+Place the received message a the end of the queue
+Recv: Test from host1 on (1-6 )
+Place the received message a the end of the queue
+Recv: Connect from host7 on (7-6)
+Sending Initiate 1 6 on 6-7
+Recv: Test from host1 on (1-6 )
+Place the received message a the end of the queue
+Recv: Initiate from host7 on (7-6)
+Recv: Test from host1 on (1-6 )
+Sending Report 8 on 6-1
+Recv: Ack from host7 on (7-6)
+Cluster6is formed with level 1
+Sending Test 1 6 on 6-1
+Sending Test 1 6 on 6-7
+Recv: Report 8 from host1 on (1-6
+Recv: Report 10 from host7 on (7-6
+Doing procedure end of test
+Doing procedure changeroot
+Sending Connect 1 on (6-1)
+Recv: Initiate from host1 on (1-6)
+Sending Initiate 2 0 on 6-7
+Recv: Ack from host7 on (7-6)
+Sending Ack on 6-1
+Recv: Test from host1 on (1-6 )
+Sending Test 2 0 on 6-7
+Recv: Report 10000 from host7 on (7-6
+Doing procedure end of test
+Sending Report 10000 on 6-1
+Recv: Finished from host 1on 1-6
+Edge(6-1): branch
+Edge(6-7): branch
+Sending finished on 6-7
+Terminating process: host 6

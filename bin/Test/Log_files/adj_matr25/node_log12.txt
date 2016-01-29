@@ -1,0 +1,142 @@
+Recv: Connect from host0 on (0-12)
+place received message at the end of the queue
+Recv: Connect from host3 on (3-12)
+place received message at the end of the queue
+Recv: Connect from host7 on (7-12)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-12)
+place received message at the end of the queue
+Recv: Connect from host3 on (3-12)
+place received message at the end of the queue
+Recv: Connect from host7 on (7-12)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-12)
+place received message at the end of the queue
+Recv: Connect from host3 on (3-12)
+place received message at the end of the queue
+Recv: Connect from host7 on (7-12)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-12)
+place received message at the end of the queue
+Recv: Connect from host15 on (15-12)
+Sending Initiate 1 12 on 12-15
+Recv: Connect from host3 on (3-12)
+place received message at the end of the queue
+Recv: Connect from host7 on (7-12)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-12)
+place received message at the end of the queue
+Recv: Connect from host3 on (3-12)
+place received message at the end of the queue
+Recv: Connect from host7 on (7-12)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-12)
+place received message at the end of the queue
+Recv: Connect from host3 on (3-12)
+place received message at the end of the queue
+Recv: Connect from host7 on (7-12)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-12)
+place received message at the end of the queue
+Recv: Connect from host3 on (3-12)
+place received message at the end of the queue
+Recv: Connect from host7 on (7-12)
+place received message at the end of the queue
+Recv: Initiate from host15 on (15-12)
+Recv: Connect from host0 on (0-12)
+Sending Initiate 1 12 on 12-0
+Recv: Connect from host3 on (3-12)
+Sending Initiate 1 12 on 12-3
+Recv: Ack from host15 on (15-12)
+Cluster12is formed with level 1
+Sending Test 1 12 on 12-0
+Sending Test 1 12 on 12-1
+Sending Test 1 12 on 12-2
+Sending Test 1 12 on 12-3
+Sending Test 1 12 on 12-4
+Sending Test 1 12 on 12-5
+Sending Test 1 12 on 12-6
+Sending Test 1 12 on 12-7
+Sending Test 1 12 on 12-8
+Sending Test 1 12 on 12-11
+Sending Test 1 12 on 12-15
+Sending Test 1 12 on 12-16
+Sending Test 1 12 on 12-19
+Sending Test 1 12 on 12-20
+Sending Test 1 12 on 12-22
+Recv: Connect from host7 on (7-12)
+Sending Initiate 1 12 on 12-7
+Recv: Ack from host0 on (0-12)
+Recv: Ack from host3 on (3-12)
+Recv: Test from host8 on (8-12 )
+Sending Report 42 on 12-8
+Recv: Report 70 from host19 on (19-12
+Recv: Reject from host6 on (6-12
+Recv: Ack from host7 on (7-12)
+Recv: Report 249 from host20 on (20-12
+Recv: Test from host4 on (4-12 )
+Sending Report 139 on 12-4
+Recv: Report 278 from host5 on (5-12
+Recv: Report 151 from host22 on (22-12
+Recv: Report 42 from host8 on (8-12
+Recv: Report 139 from host4 on (4-12
+Recv: Report 267 from host11 on (11-12
+Recv: Test from host5 on (5-12 )
+Sending Report 278 on 12-5
+Recv: Test from host22 on (22-12 )
+Sending Report 151 on 12-22
+Recv: Test from host20 on (20-12 )
+Sending Report 249 on 12-20
+Recv: Test from host16 on (16-12 )
+Sending Report 185 on 12-16
+Recv: Test from host2 on (2-12 )
+Sending Reject on 12-2
+Recv: Report 185 from host16 on (16-12
+Recv: Test from host11 on (11-12 )
+Sending Report 267 on 12-11
+Recv: Test from host19 on (19-12 )
+Sending Report 70 on 12-19
+Recv: Reject from host2 on (2-12
+Recv: Report 35 from host7 on (7-12
+Recv: Reject from host1 on (1-12
+Recv: Report 45 from host0 on (0-12
+Recv: Report 10 from host15 on (15-12
+Recv: Report 13 from host3 on (3-12
+Doing procedure end of test
+Doing procedure changeroot
+Sending Changeroot on 12-15
+Recv: Initiate from host15 on (15-12)
+Sending Initiate 2 4 on 12-0
+Sending Initiate 2 4 on 12-3
+Sending Initiate 2 4 on 12-7
+Recv: Ack from host7 on (7-12)
+Recv: Ack from host0 on (0-12)
+Recv: Test from host4 on (4-12 )
+Sending Reject on 12-4
+Recv: Ack from host3 on (3-12)
+Sending Ack on 12-15
+Recv: Test from host19 on (19-12 )
+Sending Reject on 12-19
+Recv: Test from host20 on (20-12 )
+Sending Reject on 12-20
+Recv: Test from host11 on (11-12 )
+Sending Reject on 12-11
+Recv: Test from host16 on (16-12 )
+Sending Reject on 12-16
+Recv: Test from host15 on (15-12 )
+Sending Test 2 4 on 12-0
+Sending Test 2 4 on 12-3
+Sending Test 2 4 on 12-5
+Sending Test 2 4 on 12-7
+Sending Test 2 4 on 12-8
+Sending Test 2 4 on 12-22
+Recv: Test from host8 on (8-12 )
+Sending Reject on 12-8
+Recv: Reject from host5 on (5-12
+Recv: Reject from host22 on (22-12
+Recv: Reject from host8 on (8-12
+Recv: Report 10000 from host0 on (0-12
+Recv: Report 10000 from host3 on (3-12
+Recv: Report 10000 from host7 on (7-12
+Doing procedure end of test
+Sending Report 10000 on 12-15

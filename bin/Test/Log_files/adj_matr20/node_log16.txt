@@ -1,0 +1,92 @@
+Recv: Initiate from host7 on (7-16)
+Sending ack on 16-7
+Recv: Test from host7 on (7-16 )
+Sending Test 1 7 on 16-3
+Sending Test 1 7 on 16-4
+Sending Test 1 7 on 16-9
+Sending Test 1 7 on 16-10
+Sending Test 1 7 on 16-11
+Sending Test 1 7 on 16-14
+Sending Test 1 7 on 16-15
+Sending Test 1 7 on 16-18
+Recv: Test from host11 on (11-16 )
+Sending Report 169 on 16-11
+Recv: Report 169 from host11 on (11-16
+Recv: Report 82 from host18 on (18-16
+Recv: Report 161 from host4 on (4-16
+Recv: Reject from host3 on (3-16
+Recv: Test from host10 on (10-16 )
+Sending Reject on 16-10
+Recv: Report 182 from host14 on (14-16
+Recv: Test from host9 on (9-16 )
+Sending Report 61 on 16-9
+Recv: Reject from host10 on (10-16
+Recv: Test from host18 on (18-16 )
+Sending Report 82 on 16-18
+Recv: Test from host15 on (15-16 )
+Sending Report 55 on 16-15
+Recv: Report 61 from host9 on (9-16
+Recv: Test from host4 on (4-16 )
+Sending Report 161 on 16-4
+Recv: Report 55 from host15 on (15-16
+Doing procedure end of test
+Sending Report 55 on 16-7
+Recv: Test from host14 on (14-16 )
+Sending Report 182 on 16-14
+Recv: Initiate from host7 on (7-16)
+Sending ack on 16-7
+Recv: Test from host4 on (4-16 )
+Sending Reject on 16-4
+Recv: Test from host15 on (15-16 )
+Sending Report 55 on 16-15
+Recv: Test from host7 on (7-16 )
+Sending Test 2 4 on 16-9
+Sending Test 2 4 on 16-11
+Sending Test 2 4 on 16-14
+Sending Test 2 4 on 16-15
+Sending Test 2 4 on 16-18
+Recv: Test from host11 on (11-16 )
+Sending Report 169 on 16-11
+Recv: Test from host18 on (18-16 )
+Sending Reject on 16-18
+Recv: Test from host14 on (14-16 )
+Sending Report 182 on 16-14
+Recv: Reject from host18 on (18-16
+Recv: Report 182 from host14 on (14-16
+Recv: Test from host9 on (9-16 )
+Sending Report 61 on 16-9
+Recv: Report 55 from host15 on (15-16
+Recv: Report 169 from host11 on (11-16
+Recv: Report 61 from host9 on (9-16
+Doing procedure end of test
+Sending Report 55 on 16-7
+Recv: Initiate from host7 on (7-16)
+Sending ack on 16-7
+Recv: Test from host7 on (7-16 )
+Sending Test 3 0 on 16-9
+Sending Test 3 0 on 16-11
+Sending Test 3 0 on 16-14
+Sending Test 3 0 on 16-15
+Recv: Test from host15 on (15-16 )
+Sending Reject on 16-15
+Recv: Test from host11 on (11-16 )
+Sending Reject on 16-11
+Recv: Reject from host9 on (9-16
+Recv: Reject from host15 on (15-16
+Recv: Test from host14 on (14-16 )
+Sending Reject on 16-14
+Recv: Reject from host11 on (11-16
+Recv: Reject from host14 on (14-16
+Doing procedure end of test
+Sending Report 10000 on 16-7
+Recv: Finished from host 7on 7-16
+Edge(16-3): rejected
+Edge(16-4): rejected
+Edge(16-7): branch
+Edge(16-9): rejected
+Edge(16-10): rejected
+Edge(16-11): rejected
+Edge(16-14): rejected
+Edge(16-15): rejected
+Edge(16-18): rejected
+Terminating process: host 16

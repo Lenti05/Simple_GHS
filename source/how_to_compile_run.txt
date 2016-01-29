@@ -1,0 +1,6 @@
+I have executed and tested my programs with Mac OS X using both CMake and Xcode. Here,for portability sake, I have included the cmakelists files necessary to compile the programs with CMake. To run the program with a different OS, you need just to provide slight modifications to file Cmakelists.txt to take into account the different in the file system.
+To build the executable file, you should go to the directory where you want to store the file and type cmake followed by the name of the directory containing the source files. For building this program you have to go to the folder my_projects/bin/synch_ghs/synch_ghs and type:
+ 
+"cmake path_to_folder_containing_my_projects/my_projects/source/synch_ghs" 
+
+This will generate the build files necessary for compilation. To compile the source files, type "make". Every time you edit  a source file you have to type "make" again to recompile the files. At this point, you need just to run the executable file to start the program.

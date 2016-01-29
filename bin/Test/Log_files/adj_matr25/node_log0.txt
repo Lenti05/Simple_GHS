@@ -1,0 +1,240 @@
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Test from host8 on (8-0 )
+Place the received message a the end of the queue
+Recv: Connect from host10 on (10-0)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-0)
+place received message at the end of the queue
+Recv: Test from host8 on (8-0 )
+Place the received message a the end of the queue
+Recv: Initiate from host12 on (12-0)
+Sending ack on 0-12
+Recv: Connect from host10 on (10-0)
+Sending Initiate 1 12 on 0-10
+Recv: Connect from host2 on (2-0)
+Sending Initiate 1 12 on 0-2
+Recv: Test from host8 on (8-0 )
+Sending Report 92 on 0-8
+Recv: Test from host12 on (12-0 )
+Sending Test 1 12 on 0-2
+Sending Test 1 12 on 0-7
+Sending Test 1 12 on 0-8
+Sending Test 1 12 on 0-10
+Sending Test 1 12 on 0-11
+Sending Test 1 12 on 0-14
+Sending Test 1 12 on 0-17
+Sending Test 1 12 on 0-18
+Sending Test 1 12 on 0-20
+Sending Test 1 12 on 0-21
+Sending Test 1 12 on 0-24
+Recv: Test from host14 on (14-0 )
+Sending Report 96 on 0-14
+Recv: Report 96 from host14 on (14-0
+Recv: Reject from host7 on (7-0
+Recv: Report 190 from host20 on (20-0
+Recv: Report 61 from host18 on (18-0
+Recv: Reject from host24 on (24-0
+Recv: Report 159 from host11 on (11-0
+Recv: Test from host21 on (21-0 )
+Sending Report 54 on 0-21
+Recv: Test from host20 on (20-0 )
+Sending Report 190 on 0-20
+Recv: Report 92 from host8 on (8-0
+Recv: Ack from host2 on (2-0)
+Recv: Report 99 from host17 on (17-0
+Recv: Ack from host10 on (10-0)
+Recv: Report 54 from host21 on (21-0
+Recv: Test from host18 on (18-0 )
+Sending Report 61 on 0-18
+Recv: Test from host11 on (11-0 )
+Sending Report 159 on 0-11
+Recv: Test from host17 on (17-0 )
+Sending Report 99 on 0-17
+Recv: Report 75 from host2 on (2-0
+Recv: Report 45 from host10 on (10-0
+Doing procedure end of test
+Sending Report 45 on 0-12
+Recv: Initiate from host12 on (12-0)
+Sending Initiate 2 4 on 0-2
+Sending Initiate 2 4 on 0-10
+Recv: Ack from host2 on (2-0)
+Recv: Ack from host10 on (10-0)
+Sending Ack on 0-12
+Recv: Test from host20 on (20-0 )
+Sending Reject on 0-20
+Recv: Test from host11 on (11-0 )
+Sending Reject on 0-11
+Recv: Test from host8 on (8-0 )
+Sending Reject on 0-8
+Recv: Test from host12 on (12-0 )
+Sending Test 2 4 on 0-2
+Sending Test 2 4 on 0-10
+Sending Test 2 4 on 0-14
+Sending Test 2 4 on 0-17
+Sending Test 2 4 on 0-18
+Sending Test 2 4 on 0-21
+Recv: Test from host14 on (14-0 )
+Sending Reject on 0-14
+Recv: Reject from host14 on (14-0
+Recv: Test from host17 on (17-0 )
+Sending Reject on 0-17
+Recv: Reject from host21 on (21-0
+Recv: Test from host18 on (18-0 )
+Sending Reject on 0-18
+Recv: Reject from host17 on (17-0
+Recv: Reject from host18 on (18-0
+Recv: Report 10000 from host2 on (2-0
+Recv: Report 10000 from host10 on (10-0
+Doing procedure end of test
+Sending Report 10000 on 0-12

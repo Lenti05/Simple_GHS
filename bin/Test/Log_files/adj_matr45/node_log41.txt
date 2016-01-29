@@ -1,0 +1,361 @@
+Recv: Connect from host6 on (6-41)
+Sending Initiate 1 6 on 41-6
+Recv: Test from host9 on (9-41 )
+Place the received message a the end of the queue
+Recv: Initiate from host6 on (6-41)
+Sending ack on 41-6
+Recv: Test from host9 on (9-41 )
+Sending Report 65 on 41-9
+Recv: Test from host6 on (6-41 )
+Sending Test 1 6 on 41-1
+Sending Test 1 6 on 41-2
+Sending Test 1 6 on 41-4
+Sending Test 1 6 on 41-8
+Sending Test 1 6 on 41-9
+Sending Test 1 6 on 41-10
+Sending Test 1 6 on 41-11
+Sending Test 1 6 on 41-13
+Sending Test 1 6 on 41-18
+Sending Test 1 6 on 41-19
+Sending Test 1 6 on 41-22
+Sending Test 1 6 on 41-23
+Sending Test 1 6 on 41-26
+Sending Test 1 6 on 41-28
+Sending Test 1 6 on 41-30
+Sending Test 1 6 on 41-33
+Sending Test 1 6 on 41-35
+Sending Test 1 6 on 41-38
+Sending Test 1 6 on 41-40
+Sending Test 1 6 on 41-42
+Sending Test 1 6 on 41-44
+Recv: Test from host23 on (23-41 )
+Sending Report 382 on 41-23
+Recv: Test from host2 on (2-41 )
+Sending Report 471 on 41-2
+Recv: Test from host38 on (38-41 )
+Sending Report 790 on 41-38
+Recv: Test from host18 on (18-41 )
+Sending Report 926 on 41-18
+Recv: Test from host30 on (30-41 )
+Sending Report 951 on 41-30
+Recv: Report 471 from host2 on (2-41
+Recv: Test from host11 on (11-41 )
+Sending Report 575 on 41-11
+Recv: Report 102 from host8 on (8-41
+Recv: Report 65 from host9 on (9-41
+Recv: Test from host44 on (44-41 )
+Sending Report 449 on 41-44
+Recv: Report 926 from host18 on (18-41
+Recv: Report 382 from host23 on (23-41
+Recv: Report 594 from host28 on (28-41
+Recv: Test from host26 on (26-41 )
+Sending Report 944 on 41-26
+Recv: Report 449 from host44 on (44-41
+Recv: Report 790 from host38 on (38-41
+Recv: Test from host19 on (19-41 )
+Sending Report 623 on 41-19
+Recv: Report 944 from host26 on (26-41
+Recv: Test from host22 on (22-41 )
+Sending Report 254 on 41-22
+Recv: Report 254 from host22 on (22-41
+Recv: Test from host13 on (13-41 )
+Sending Report 264 on 41-13
+Recv: Report 264 from host13 on (13-41
+Recv: Test from host8 on (8-41 )
+Sending Report 102 on 41-8
+Recv: Report 575 from host11 on (11-41
+Recv: Report 623 from host19 on (19-41
+Recv: Test from host35 on (35-41 )
+Sending Report 557 on 41-35
+Recv: Report 557 from host35 on (35-41
+Recv: Test from host33 on (33-41 )
+Sending Report 614 on 41-33
+Recv: Test from host1 on (1-41 )
+Sending Report 833 on 41-1
+Recv: Test from host40 on (40-41 )
+Sending Report 346 on 41-40
+Recv: Report 346 from host40 on (40-41
+Recv: Report 833 from host1 on (1-41
+Recv: Test from host42 on (42-41 )
+Sending Report 648 on 41-42
+Recv: Report 648 from host42 on (42-41
+Recv: Test from host28 on (28-41 )
+Sending Report 594 on 41-28
+Recv: Report 614 from host33 on (33-41
+Recv: Report 951 from host30 on (30-41
+Recv: Report 845 from host10 on (10-41
+Recv: Test from host10 on (10-41 )
+Sending Report 845 on 41-10
+Recv: Report 287 from host4 on (4-41
+Doing procedure end of test
+Sending Report 65 on 41-6
+Recv: Test from host4 on (4-41 )
+Sending Report 287 on 41-4
+Recv: Initiate from host6 on (6-41)
+Sending ack on 41-6
+Recv: Test from host6 on (6-41 )
+Sending Test 2 6 on 41-1
+Sending Test 2 6 on 41-2
+Sending Test 2 6 on 41-4
+Sending Test 2 6 on 41-8
+Sending Test 2 6 on 41-9
+Sending Test 2 6 on 41-10
+Sending Test 2 6 on 41-11
+Sending Test 2 6 on 41-13
+Sending Test 2 6 on 41-18
+Sending Test 2 6 on 41-19
+Sending Test 2 6 on 41-22
+Sending Test 2 6 on 41-23
+Sending Test 2 6 on 41-26
+Sending Test 2 6 on 41-28
+Sending Test 2 6 on 41-30
+Sending Test 2 6 on 41-33
+Sending Test 2 6 on 41-35
+Sending Test 2 6 on 41-38
+Sending Test 2 6 on 41-40
+Sending Test 2 6 on 41-42
+Sending Test 2 6 on 41-44
+Recv: Reject from host1 on (1-41
+Recv: Report 790 from host38 on (38-41
+Recv: Report 471 from host2 on (2-41
+Recv: Report 614 from host33 on (33-41
+Recv: Report 926 from host18 on (18-41
+Recv: Report 557 from host35 on (35-41
+Recv: Report 346 from host40 on (40-41
+Recv: Report 102 from host8 on (8-41
+Recv: Test from host9 on (9-41 )
+Sending Report 65 on 41-9
+Recv: Test from host18 on (18-41 )
+Sending Report 926 on 41-18
+Recv: Report 65 from host9 on (9-41
+Recv: Test from host2 on (2-41 )
+Sending Report 471 on 41-2
+Recv: Test from host38 on (38-41 )
+Sending Report 790 on 41-38
+Recv: Report 594 from host28 on (28-41
+Recv: Test from host8 on (8-41 )
+Sending Report 102 on 41-8
+Recv: Test from host33 on (33-41 )
+Sending Report 614 on 41-33
+Recv: Test from host40 on (40-41 )
+Sending Report 346 on 41-40
+Recv: Test from host35 on (35-41 )
+Sending Report 557 on 41-35
+Recv: Test from host28 on (28-41 )
+Sending Report 594 on 41-28
+Recv: Report 382 from host23 on (23-41
+Recv: Report 648 from host42 on (42-41
+Recv: Report 845 from host10 on (10-41
+Recv: Report 575 from host11 on (11-41
+Recv: Report 623 from host19 on (19-41
+Recv: Report 951 from host30 on (30-41
+Recv: Report 254 from host22 on (22-41
+Recv: Report 264 from host13 on (13-41
+Recv: Test from host23 on (23-41 )
+Sending Report 382 on 41-23
+Recv: Report 944 from host26 on (26-41
+Recv: Test from host42 on (42-41 )
+Sending Report 648 on 41-42
+Recv: Test from host10 on (10-41 )
+Sending Report 845 on 41-10
+Recv: Test from host30 on (30-41 )
+Sending Report 951 on 41-30
+Recv: Report 449 from host44 on (44-41
+Recv: Test from host11 on (11-41 )
+Sending Report 575 on 41-11
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Test from host26 on (26-41 )
+Sending Report 944 on 41-26
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Test from host13 on (13-41 )
+Sending Report 264 on 41-13
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Test from host19 on (19-41 )
+Sending Report 623 on 41-19
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Test from host22 on (22-41 )
+Sending Report 254 on 41-22
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Report 287 from host4 on (4-41
+Doing procedure end of test
+Sending Report 65 on 41-6
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Connect from host9 on (9-41)
+place received message at the end of the queue
+Recv: Changeroot from host6 on (6-41
+Doing procedure changeroot
+Sending Connect 2 on (41-9)
+Recv: Connect from host9 on (9-41)
+Sending Initiate 3 9 on 41-9
+Recv: Initiate from host9 on (9-41)
+Sending Initiate 3 9 on 41-6
+Recv: Ack from host6 on (6-41)
+Sending Ack on 41-9
+Recv: Test from host9 on (9-41 )
+Sending Test 3 9 on 41-2
+Sending Test 3 9 on 41-4
+Sending Test 3 9 on 41-6
+Sending Test 3 9 on 41-8
+Sending Test 3 9 on 41-10
+Sending Test 3 9 on 41-11
+Sending Test 3 9 on 41-13
+Sending Test 3 9 on 41-18
+Sending Test 3 9 on 41-19
+Sending Test 3 9 on 41-22
+Sending Test 3 9 on 41-23
+Sending Test 3 9 on 41-26
+Sending Test 3 9 on 41-28
+Sending Test 3 9 on 41-30
+Sending Test 3 9 on 41-33
+Sending Test 3 9 on 41-35
+Sending Test 3 9 on 41-38
+Sending Test 3 9 on 41-40
+Sending Test 3 9 on 41-42
+Sending Test 3 9 on 41-44
+Recv: Reject from host8 on (8-41
+Recv: Test from host38 on (38-41 )
+Sending Reject on 41-38
+Recv: Test from host28 on (28-41 )
+Sending Reject on 41-28
+Recv: Test from host18 on (18-41 )
+Sending Reject on 41-18
+Recv: Reject from host18 on (18-41
+Recv: Test from host2 on (2-41 )
+Sending Reject on 41-2
+Recv: Reject from host2 on (2-41
+Recv: Reject from host38 on (38-41
+Recv: Reject from host40 on (40-41
+Recv: Reject from host28 on (28-41
+Recv: Test from host35 on (35-41 )
+Sending Reject on 41-35
+Recv: Test from host33 on (33-41 )
+Sending Reject on 41-33
+Recv: Reject from host35 on (35-41
+Recv: Reject from host33 on (33-41
+Recv: Test from host4 on (4-41 )
+Sending Report 287 on 41-4
+Recv: Test from host44 on (44-41 )
+Sending Report 449 on 41-44
+Recv: Reject from host19 on (19-41
+Recv: Reject from host10 on (10-41
+Recv: Reject from host23 on (23-41
+Recv: Reject from host30 on (30-41
+Recv: Reject from host42 on (42-41
+Recv: Reject from host26 on (26-41
+Recv: Reject from host13 on (13-41
+Recv: Reject from host11 on (11-41
+Recv: Reject from host4 on (4-41
+Recv: Reject from host44 on (44-41
+Recv: Reject from host22 on (22-41
+Recv: Report 10000 from host6 on (6-41
+Doing procedure end of test
+Sending Report 10000 on 41-9
+Recv: Finished from host 9on 9-41
+Edge(41-1): rejected
+Edge(41-2): rejected
+Edge(41-4): rejected
+Edge(41-6): branch
+Sending finished on 41-6
+Edge(41-8): rejected
+Edge(41-9): branch
+Edge(41-10): rejected
+Edge(41-11): rejected
+Edge(41-13): rejected
+Edge(41-18): rejected
+Edge(41-19): rejected
+Edge(41-22): rejected
+Edge(41-23): rejected
+Edge(41-26): rejected
+Edge(41-28): rejected
+Edge(41-30): rejected
+Edge(41-33): rejected
+Edge(41-35): rejected
+Edge(41-38): rejected
+Edge(41-40): rejected
+Edge(41-42): rejected
+Edge(41-44): rejected
+Terminating process: host 41

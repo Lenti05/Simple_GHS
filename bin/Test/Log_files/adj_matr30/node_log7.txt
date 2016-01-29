@@ -1,0 +1,75 @@
+Recv: Connect from host2 on (2-7)
+Sending Initiate 1 2 on 7-2
+Recv: Connect from host6 on (6-7)
+place received message at the end of the queue
+Recv: Initiate from host2 on (2-7)
+Sending ack on 7-2
+Recv: Connect from host6 on (6-7)
+Sending Initiate 1 2 on 7-6
+Recv: Connect from host12 on (12-7)
+Sending Initiate 1 2 on 7-12
+Recv: Ack from host6 on (6-7)
+Recv: Test from host2 on (2-7 )
+Sending Test 1 2 on 7-1
+Sending Test 1 2 on 7-6
+Sending Test 1 2 on 7-12
+Sending Test 1 2 on 7-13
+Sending Test 1 2 on 7-15
+Sending Test 1 2 on 7-16
+Sending Test 1 2 on 7-22
+Sending Test 1 2 on 7-26
+Sending Test 1 2 on 7-29
+Recv: Ack from host12 on (12-7)
+Recv: Report 366 from host16 on (16-7
+Recv: Test from host1 on (1-7 )
+Sending Report 390 on 7-1
+Recv: Test from host16 on (16-7 )
+Sending Report 366 on 7-16
+Recv: Report 390 from host1 on (1-7
+Recv: Test from host22 on (22-7 )
+Sending Reject on 7-22
+Recv: Reject from host22 on (22-7
+Recv: Test from host13 on (13-7 )
+Sending Report 279 on 7-13
+Recv: Report 279 from host13 on (13-7
+Recv: Report 42 from host6 on (6-7
+Recv: Report 360 from host29 on (29-7
+Recv: Test from host29 on (29-7 )
+Sending Report 360 on 7-29
+Recv: Report 104 from host26 on (26-7
+Recv: Test from host26 on (26-7 )
+Sending Report 104 on 7-26
+Recv: Report 17 from host12 on (12-7
+Recv: Test from host15 on (15-7 )
+Sending Report 97 on 7-15
+Recv: Report 97 from host15 on (15-7
+Doing procedure end of test
+Sending Report 17 on 7-2
+Recv: Changeroot from host2 on (2-7
+Doing procedure changeroot
+Sending Changeroot on 7-12
+Recv: Initiate from host12 on (12-7)
+Sending Initiate 2 12 on 7-2
+Sending Initiate 2 12 on 7-6
+Recv: Ack from host6 on (6-7)
+Recv: Ack from host2 on (2-7)
+Sending Ack on 7-12
+Recv: Test from host12 on (12-7 )
+Sending Test 2 12 on 7-1
+Sending Test 2 12 on 7-2
+Sending Test 2 12 on 7-6
+Sending Test 2 12 on 7-13
+Sending Test 2 12 on 7-15
+Sending Test 2 12 on 7-16
+Sending Test 2 12 on 7-26
+Sending Test 2 12 on 7-29
+Recv: Reject from host1 on (1-7
+Recv: Reject from host26 on (26-7
+Recv: Reject from host16 on (16-7
+Recv: Reject from host13 on (13-7
+Recv: Reject from host29 on (29-7
+Recv: Reject from host15 on (15-7
+Recv: Report 10000 from host6 on (6-7
+Recv: Report 10000 from host2 on (2-7
+Doing procedure end of test
+Sending Report 10000 on 7-12

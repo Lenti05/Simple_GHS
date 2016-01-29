@@ -1,0 +1,311 @@
+Recv: Connect from host2 on (2-38)
+Sending Initiate 1 2 on 38-2
+Recv: Initiate from host2 on (2-38)
+Sending ack on 38-2
+Recv: Test from host9 on (9-38 )
+Sending Report 45 on 38-9
+Recv: Connect from host43 on (43-38)
+Sending Initiate 1 2 on 38-43
+Recv: Ack from host43 on (43-38)
+Recv: Test from host17 on (17-38 )
+Sending Report 693 on 38-17
+Recv: Test from host20 on (20-38 )
+Sending Report 574 on 38-20
+Recv: Test from host2 on (2-38 )
+Sending Test 1 2 on 38-3
+Sending Test 1 2 on 38-4
+Sending Test 1 2 on 38-5
+Sending Test 1 2 on 38-8
+Sending Test 1 2 on 38-9
+Sending Test 1 2 on 38-15
+Sending Test 1 2 on 38-16
+Sending Test 1 2 on 38-17
+Sending Test 1 2 on 38-18
+Sending Test 1 2 on 38-20
+Sending Test 1 2 on 38-21
+Sending Test 1 2 on 38-26
+Sending Test 1 2 on 38-27
+Sending Test 1 2 on 38-28
+Sending Test 1 2 on 38-31
+Sending Test 1 2 on 38-37
+Sending Test 1 2 on 38-39
+Sending Test 1 2 on 38-41
+Sending Test 1 2 on 38-42
+Sending Test 1 2 on 38-43
+Sending Test 1 2 on 38-44
+Recv: Reject from host3 on (3-38
+Recv: Test from host18 on (18-38 )
+Sending Report 49 on 38-18
+Recv: Report 49 from host18 on (18-38
+Recv: Report 45 from host9 on (9-38
+Recv: Report 574 from host20 on (20-38
+Recv: Report 470 from host31 on (31-38
+Recv: Report 312 from host8 on (8-38
+Recv: Report 693 from host17 on (17-38
+Recv: Report 423 from host26 on (26-38
+Recv: Report 565 from host27 on (27-38
+Recv: Report 508 from host28 on (28-38
+Recv: Test from host21 on (21-38 )
+Sending Report 92 on 38-21
+Recv: Report 92 from host21 on (21-38
+Recv: Test from host37 on (37-38 )
+Sending Report 180 on 38-37
+Recv: Report 180 from host37 on (37-38
+Recv: Test from host39 on (39-38 )
+Sending Report 189 on 38-39
+Recv: Report 189 from host39 on (39-38
+Recv: Test from host44 on (44-38 )
+Sending Report 564 on 38-44
+Recv: Report 564 from host44 on (44-38
+Recv: Test from host15 on (15-38 )
+Sending Report 775 on 38-15
+Recv: Report 775 from host15 on (15-38
+Recv: Test from host41 on (41-38 )
+Sending Report 790 on 38-41
+Recv: Test from host26 on (26-38 )
+Sending Report 423 on 38-26
+Recv: Report 790 from host41 on (41-38
+Recv: Test from host31 on (31-38 )
+Sending Report 470 on 38-31
+Recv: Test from host8 on (8-38 )
+Sending Report 312 on 38-8
+Recv: Test from host27 on (27-38 )
+Sending Report 565 on 38-27
+Recv: Report 866 from host5 on (5-38
+Recv: Test from host28 on (28-38 )
+Sending Report 508 on 38-28
+Recv: Test from host42 on (42-38 )
+Sending Report 132 on 38-42
+Recv: Report 132 from host42 on (42-38
+Recv: Report 588 from host16 on (16-38
+Recv: Test from host16 on (16-38 )
+Sending Report 588 on 38-16
+Recv: Test from host5 on (5-38 )
+Sending Report 866 on 38-5
+Recv: Report 252 from host4 on (4-38
+Recv: Test from host4 on (4-38 )
+Sending Report 252 on 38-4
+Recv: Report 126 from host43 on (43-38
+Doing procedure end of test
+Sending Report 45 on 38-2
+Recv: Changeroot from host2 on (2-38
+Doing procedure changeroot
+Sending Connect 1 on (38-9)
+Recv: Connect from host9 on (9-38)
+Sending Initiate 2 9 on 38-9
+Recv: Initiate from host9 on (9-38)
+Sending Initiate 2 9 on 38-2
+Sending Initiate 2 9 on 38-43
+Recv: Ack from host43 on (43-38)
+Recv: Ack from host2 on (2-38)
+Sending Ack on 38-9
+Recv: Test from host20 on (20-38 )
+Sending Report 574 on 38-20
+Recv: Test from host39 on (39-38 )
+Sending Report 189 on 38-39
+Recv: Test from host41 on (41-38 )
+Sending Report 790 on 38-41
+Recv: Test from host9 on (9-38 )
+Sending Test 2 9 on 38-2
+Sending Test 2 9 on 38-4
+Sending Test 2 9 on 38-5
+Sending Test 2 9 on 38-8
+Sending Test 2 9 on 38-15
+Sending Test 2 9 on 38-16
+Sending Test 2 9 on 38-17
+Sending Test 2 9 on 38-18
+Sending Test 2 9 on 38-20
+Sending Test 2 9 on 38-21
+Sending Test 2 9 on 38-26
+Sending Test 2 9 on 38-27
+Sending Test 2 9 on 38-28
+Sending Test 2 9 on 38-31
+Sending Test 2 9 on 38-37
+Sending Test 2 9 on 38-39
+Sending Test 2 9 on 38-41
+Sending Test 2 9 on 38-42
+Sending Test 2 9 on 38-43
+Sending Test 2 9 on 38-44
+Recv: Test from host18 on (18-38 )
+Sending Reject on 38-18
+Recv: Reject from host18 on (18-38
+Recv: Report 574 from host20 on (20-38
+Recv: Report 92 from host21 on (21-38
+Recv: Report 312 from host8 on (8-38
+Recv: Report 189 from host39 on (39-38
+Recv: Report 790 from host41 on (41-38
+Recv: Report 470 from host31 on (31-38
+Recv: Report 508 from host28 on (28-38
+Recv: Test from host31 on (31-38 )
+Sending Report 470 on 38-31
+Recv: Test from host8 on (8-38 )
+Sending Report 312 on 38-8
+Recv: Test from host28 on (28-38 )
+Sending Report 508 on 38-28
+Recv: Test from host21 on (21-38 )
+Sending Report 92 on 38-21
+Recv: Report 588 from host16 on (16-38
+Recv: Report 132 from host42 on (42-38
+Recv: Report 693 from host17 on (17-38
+Recv: Report 775 from host15 on (15-38
+Recv: Report 866 from host5 on (5-38
+Recv: Report 180 from host37 on (37-38
+Recv: Report 252 from host4 on (4-38
+Recv: Report 423 from host26 on (26-38
+Recv: Test from host16 on (16-38 )
+Sending Report 588 on 38-16
+Recv: Report 565 from host27 on (27-38
+Recv: Report 126 from host43 on (43-38
+Recv: Test from host42 on (42-38 )
+Sending Report 132 on 38-42
+Recv: Test from host37 on (37-38 )
+Sending Report 180 on 38-37
+Recv: Report 564 from host44 on (44-38
+Recv: Test from host17 on (17-38 )
+Sending Report 693 on 38-17
+Recv: Test from host15 on (15-38 )
+Sending Report 775 on 38-15
+Recv: Test from host5 on (5-38 )
+Sending Report 866 on 38-5
+Recv: Report 80 from host2 on (2-38
+Doing procedure end of test
+Sending Report 80 on 38-9
+Recv: Test from host26 on (26-38 )
+Sending Report 423 on 38-26
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Connect from host21 on (21-38)
+place received message at the end of the queue
+Recv: Initiate from host9 on (9-38)
+Sending Initiate 3 9 on 38-2
+Sending Initiate 3 9 on 38-43
+Recv: Connect from host21 on (21-38)
+Sending Initiate 3 9 on 38-21
+Recv: Ack from host43 on (43-38)
+Recv: Test from host27 on (27-38 )
+Sending Report 565 on 38-27
+Recv: Ack from host2 on (2-38)
+Sending Ack on 38-9
+Recv: Ack from host21 on (21-38)
+Recv: Test from host9 on (9-38 )
+Sending Test 3 9 on 38-2
+Sending Test 3 9 on 38-4
+Sending Test 3 9 on 38-5
+Sending Test 3 9 on 38-8
+Sending Test 3 9 on 38-15
+Sending Test 3 9 on 38-16
+Sending Test 3 9 on 38-17
+Sending Test 3 9 on 38-20
+Sending Test 3 9 on 38-21
+Sending Test 3 9 on 38-26
+Sending Test 3 9 on 38-27
+Sending Test 3 9 on 38-28
+Sending Test 3 9 on 38-31
+Sending Test 3 9 on 38-37
+Sending Test 3 9 on 38-39
+Sending Test 3 9 on 38-41
+Sending Test 3 9 on 38-42
+Sending Test 3 9 on 38-43
+Sending Test 3 9 on 38-44
+Recv: Reject from host8 on (8-38
+Recv: Reject from host20 on (20-38
+Recv: Reject from host28 on (28-38
+Recv: Reject from host31 on (31-38
+Recv: Reject from host39 on (39-38
+Recv: Test from host41 on (41-38 )
+Sending Reject on 38-41
+Recv: Reject from host41 on (41-38
+Recv: Test from host4 on (4-38 )
+Sending Report 252 on 38-4
+Recv: Test from host44 on (44-38 )
+Sending Report 564 on 38-44
+Recv: Reject from host42 on (42-38
+Recv: Reject from host16 on (16-38
+Recv: Reject from host37 on (37-38
+Recv: Test from host27 on (27-38 )
+Sending Reject on 38-27
+Recv: Reject from host26 on (26-38
+Recv: Reject from host27 on (27-38
+Recv: Reject from host15 on (15-38
+Recv: Reject from host4 on (4-38
+Recv: Reject from host17 on (17-38
+Recv: Test from host5 on (5-38 )
+Sending Reject on 38-5
+Recv: Report 10000 from host43 on (43-38
+Recv: Reject from host5 on (5-38
+Recv: Reject from host44 on (44-38
+Recv: Report 10000 from host21 on (21-38
+Recv: Report 10000 from host2 on (2-38
+Doing procedure end of test
+Sending Report 10000 on 38-9
+Recv: Finished from host 9on 9-38
+Edge(38-2): branch
+Sending finished on 38-2
+Edge(38-3): rejected
+Edge(38-4): rejected
+Edge(38-5): rejected
+Edge(38-8): rejected
+Edge(38-9): branch
+Edge(38-15): rejected
+Edge(38-16): rejected
+Edge(38-17): rejected
+Edge(38-18): rejected
+Edge(38-20): rejected
+Edge(38-21): branch
+Sending finished on 38-21
+Edge(38-26): rejected
+Edge(38-27): rejected
+Edge(38-28): rejected
+Edge(38-31): rejected
+Edge(38-37): rejected
+Edge(38-39): rejected
+Edge(38-41): rejected
+Edge(38-42): rejected
+Edge(38-43): branch
+Sending finished on 38-43
+Edge(38-44): rejected
+Terminating process: host 38

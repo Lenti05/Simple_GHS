@@ -1,0 +1,390 @@
+Recv: Connect from host32 on (32-20)
+Sending Initiate 1 20 on 20-32
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Connect from host39 on (39-20)
+place received message at the end of the queue
+Recv: Initiate from host32 on (32-20)
+Recv: Connect from host39 on (39-20)
+Sending Initiate 1 20 on 20-39
+Recv: Ack from host32 on (32-20)
+Cluster20is formed with level 1
+Sending Test 1 20 on 20-1
+Sending Test 1 20 on 20-6
+Sending Test 1 20 on 20-9
+Sending Test 1 20 on 20-12
+Sending Test 1 20 on 20-15
+Sending Test 1 20 on 20-17
+Sending Test 1 20 on 20-19
+Sending Test 1 20 on 20-22
+Sending Test 1 20 on 20-25
+Sending Test 1 20 on 20-27
+Sending Test 1 20 on 20-28
+Sending Test 1 20 on 20-29
+Sending Test 1 20 on 20-31
+Sending Test 1 20 on 20-32
+Sending Test 1 20 on 20-34
+Sending Test 1 20 on 20-35
+Sending Test 1 20 on 20-36
+Sending Test 1 20 on 20-38
+Sending Test 1 20 on 20-39
+Sending Test 1 20 on 20-40
+Sending Test 1 20 on 20-42
+Sending Test 1 20 on 20-43
+Sending Test 1 20 on 20-44
+Recv: Test from host9 on (9-20 )
+Sending Report 659 on 20-9
+Recv: Ack from host39 on (39-20)
+Recv: Test from host17 on (17-20 )
+Sending Report 341 on 20-17
+Recv: Test from host6 on (6-20 )
+Sending Report 44 on 20-6
+Recv: Report 242 from host15 on (15-20
+Recv: Report 583 from host19 on (19-20
+Recv: Report 172 from host27 on (27-20
+Recv: Report 222 from host28 on (28-20
+Recv: Report 545 from host36 on (36-20
+Recv: Report 515 from host43 on (43-20
+Recv: Report 659 from host9 on (9-20
+Recv: Report 341 from host17 on (17-20
+Recv: Report 44 from host6 on (6-20
+Recv: Report 934 from host22 on (22-20
+Recv: Report 540 from host31 on (31-20
+Recv: Report 574 from host38 on (38-20
+Recv: Test from host38 on (38-20 )
+Sending Report 574 on 20-38
+Recv: Report 777 from host35 on (35-20
+Recv: Report 669 from host25 on (25-20
+Recv: Test from host43 on (43-20 )
+Sending Report 515 on 20-43
+Recv: Test from host44 on (44-20 )
+Sending Report 194 on 20-44
+Recv: Test from host34 on (34-20 )
+Sending Report 785 on 20-34
+Recv: Test from host29 on (29-20 )
+Sending Report 966 on 20-29
+Recv: Report 168 from host1 on (1-20
+Recv: Test from host15 on (15-20 )
+Sending Report 242 on 20-15
+Recv: Report 194 from host44 on (44-20
+Recv: Report 966 from host29 on (29-20
+Recv: Test from host19 on (19-20 )
+Sending Report 583 on 20-19
+Recv: Test from host31 on (31-20 )
+Sending Report 540 on 20-31
+Recv: Test from host36 on (36-20 )
+Sending Report 545 on 20-36
+Recv: Test from host22 on (22-20 )
+Sending Report 934 on 20-22
+Recv: Test from host28 on (28-20 )
+Sending Report 222 on 20-28
+Recv: Test from host27 on (27-20 )
+Sending Report 172 on 20-27
+Recv: Test from host35 on (35-20 )
+Sending Report 777 on 20-35
+Recv: Test from host1 on (1-20 )
+Sending Report 168 on 20-1
+Recv: Test from host25 on (25-20 )
+Sending Report 669 on 20-25
+Recv: Report 785 from host34 on (34-20
+Recv: Test from host40 on (40-20 )
+Sending Report 668 on 20-40
+Recv: Report 668 from host40 on (40-20
+Recv: Test from host42 on (42-20 )
+Sending Report 607 on 20-42
+Recv: Report 607 from host42 on (42-20
+Recv: Report 113 from host39 on (39-20
+Recv: Report 855 from host12 on (12-20
+Recv: Test from host12 on (12-20 )
+Sending Report 855 on 20-12
+Recv: Connect from host6 on (6-20)
+place received message at the end of the queue
+Recv: Report 143 from host32 on (32-20
+Doing procedure end of test
+Doing procedure changeroot
+Sending Connect 1 on (20-6)
+Recv: Connect from host6 on (6-20)
+Sending Initiate 2 6 on 20-6
+Recv: Initiate from host6 on (6-20)
+Sending Initiate 2 6 on 20-32
+Sending Initiate 2 6 on 20-39
+Recv: Ack from host32 on (32-20)
+Recv: Ack from host39 on (39-20)
+Sending Ack on 20-6
+Recv: Test from host6 on (6-20 )
+Sending Test 2 6 on 20-1
+Sending Test 2 6 on 20-9
+Sending Test 2 6 on 20-12
+Sending Test 2 6 on 20-15
+Sending Test 2 6 on 20-17
+Sending Test 2 6 on 20-19
+Sending Test 2 6 on 20-22
+Sending Test 2 6 on 20-25
+Sending Test 2 6 on 20-27
+Sending Test 2 6 on 20-28
+Sending Test 2 6 on 20-29
+Sending Test 2 6 on 20-31
+Sending Test 2 6 on 20-32
+Sending Test 2 6 on 20-34
+Sending Test 2 6 on 20-35
+Sending Test 2 6 on 20-36
+Sending Test 2 6 on 20-38
+Sending Test 2 6 on 20-39
+Sending Test 2 6 on 20-40
+Sending Test 2 6 on 20-42
+Sending Test 2 6 on 20-43
+Sending Test 2 6 on 20-44
+Recv: Reject from host1 on (1-20
+Recv: Reject from host25 on (25-20
+Recv: Report 966 from host29 on (29-20
+Recv: Report 574 from host38 on (38-20
+Recv: Report 515 from host43 on (43-20
+Recv: Report 777 from host35 on (35-20
+Recv: Report 540 from host31 on (31-20
+Recv: Report 668 from host40 on (40-20
+Recv: Test from host9 on (9-20 )
+Sending Report 659 on 20-9
+Recv: Report 659 from host9 on (9-20
+Recv: Test from host38 on (38-20 )
+Sending Report 574 on 20-38
+Recv: Report 222 from host28 on (28-20
+Recv: Test from host31 on (31-20 )
+Sending Report 540 on 20-31
+Recv: Test from host43 on (43-20 )
+Sending Report 515 on 20-43
+Recv: Test from host29 on (29-20 )
+Sending Report 966 on 20-29
+Recv: Test from host40 on (40-20 )
+Sending Report 668 on 20-40
+Recv: Test from host28 on (28-20 )
+Sending Report 222 on 20-28
+Recv: Test from host35 on (35-20 )
+Sending Report 777 on 20-35
+Recv: Report 607 from host42 on (42-20
+Recv: Report 341 from host17 on (17-20
+Recv: Report 785 from host34 on (34-20
+Recv: Report 583 from host19 on (19-20
+Recv: Report 242 from host15 on (15-20
+Recv: Report 855 from host12 on (12-20
+Recv: Report 934 from host22 on (22-20
+Recv: Report 545 from host36 on (36-20
+Recv: Report 172 from host27 on (27-20
+Recv: Test from host42 on (42-20 )
+Sending Report 607 on 20-42
+Recv: Test from host34 on (34-20 )
+Sending Report 785 on 20-34
+Recv: Test from host17 on (17-20 )
+Sending Report 341 on 20-17
+Recv: Test from host15 on (15-20 )
+Sending Report 242 on 20-15
+Recv: Test from host36 on (36-20 )
+Sending Report 545 on 20-36
+Recv: Test from host19 on (19-20 )
+Sending Report 583 on 20-19
+Recv: Report 131 from host39 on (39-20
+Recv: Test from host22 on (22-20 )
+Sending Report 934 on 20-22
+Recv: Report 194 from host44 on (44-20
+Recv: Report 162 from host32 on (32-20
+Doing procedure end of test
+Sending Report 131 on 20-6
+Recv: Test from host27 on (27-20 )
+Sending Report 172 on 20-27
+Recv: Initiate from host6 on (6-20)
+Sending Initiate 3 9 on 20-32
+Sending Initiate 3 9 on 20-39
+Recv: Ack from host39 on (39-20)
+Recv: Ack from host32 on (32-20)
+Sending Ack on 20-6
+Recv: Test from host12 on (12-20 )
+Sending Report 855 on 20-12
+Recv: Test from host9 on (9-20 )
+Sending Reject on 20-9
+Recv: Test from host38 on (38-20 )
+Sending Reject on 20-38
+Recv: Test from host28 on (28-20 )
+Sending Reject on 20-28
+Recv: Test from host6 on (6-20 )
+Sending Test 3 9 on 20-12
+Sending Test 3 9 on 20-15
+Sending Test 3 9 on 20-17
+Sending Test 3 9 on 20-19
+Sending Test 3 9 on 20-22
+Sending Test 3 9 on 20-27
+Sending Test 3 9 on 20-29
+Sending Test 3 9 on 20-31
+Sending Test 3 9 on 20-32
+Sending Test 3 9 on 20-34
+Sending Test 3 9 on 20-35
+Sending Test 3 9 on 20-36
+Sending Test 3 9 on 20-39
+Sending Test 3 9 on 20-40
+Sending Test 3 9 on 20-42
+Sending Test 3 9 on 20-43
+Sending Test 3 9 on 20-44
+Recv: Test from host31 on (31-20 )
+Sending Reject on 20-31
+Recv: Reject from host29 on (29-20
+Recv: Reject from host40 on (40-20
+Recv: Reject from host31 on (31-20
+Recv: Test from host43 on (43-20 )
+Sending Reject on 20-43
+Recv: Test from host35 on (35-20 )
+Sending Reject on 20-35
+Recv: Reject from host35 on (35-20
+Recv: Reject from host43 on (43-20
+Recv: Test from host44 on (44-20 )
+Sending Report 194 on 20-44
+Recv: Reject from host19 on (19-20
+Recv: Reject from host34 on (34-20
+Recv: Reject from host42 on (42-20
+Recv: Test from host36 on (36-20 )
+Sending Reject on 20-36
+Recv: Test from host27 on (27-20 )
+Sending Reject on 20-27
+Recv: Reject from host15 on (15-20
+Recv: Reject from host27 on (27-20
+Recv: Reject from host36 on (36-20
+Recv: Reject from host17 on (17-20
+Recv: Reject from host12 on (12-20
+Recv: Reject from host44 on (44-20
+Recv: Report 10000 from host39 on (39-20
+Recv: Reject from host22 on (22-20
+Recv: Report 10000 from host32 on (32-20
+Doing procedure end of test
+Sending Report 10000 on 20-6
+Recv: Finished from host 6on 6-20
+Edge(20-1): rejected
+Edge(20-6): branch
+Edge(20-9): rejected
+Edge(20-12): rejected
+Edge(20-15): rejected
+Edge(20-17): rejected
+Edge(20-19): rejected
+Edge(20-22): rejected
+Edge(20-25): rejected
+Edge(20-27): rejected
+Edge(20-28): rejected
+Edge(20-29): rejected
+Edge(20-31): rejected
+Edge(20-32): branch
+Sending finished on 20-32
+Edge(20-34): rejected
+Edge(20-35): rejected
+Edge(20-36): rejected
+Edge(20-38): rejected
+Edge(20-39): branch
+Sending finished on 20-39
+Edge(20-40): rejected
+Edge(20-42): rejected
+Edge(20-43): rejected
+Edge(20-44): rejected
+Terminating process: host 20

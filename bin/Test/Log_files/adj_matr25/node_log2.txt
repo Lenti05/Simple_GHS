@@ -1,0 +1,58 @@
+Recv: Test from host12 on (12-2 )
+Place the received message a the end of the queue
+Recv: Initiate from host0 on (0-2)
+Sending ack on 2-0
+Recv: Test from host0 on (0-2 )
+Sending Test 1 12 on 2-1
+Sending Test 1 12 on 2-4
+Sending Test 1 12 on 2-5
+Sending Test 1 12 on 2-7
+Sending Test 1 12 on 2-9
+Sending Test 1 12 on 2-12
+Sending Test 1 12 on 2-15
+Sending Test 1 12 on 2-16
+Sending Test 1 12 on 2-18
+Sending Test 1 12 on 2-23
+Recv: Test from host4 on (4-2 )
+Sending Report 283 on 2-4
+Recv: Test from host12 on (12-2 )
+Sending Reject on 2-12
+Recv: Test from host5 on (5-2 )
+Sending Report 170 on 2-5
+Recv: Test from host15 on (15-2 )
+Sending Reject on 2-15
+Recv: Test from host16 on (16-2 )
+Sending Report 75 on 2-16
+Recv: Test from host9 on (9-2 )
+Sending Reject on 2-9
+Recv: Test from host7 on (7-2 )
+Sending Reject on 2-7
+Recv: Report 283 from host4 on (4-2
+Recv: Test from host18 on (18-2 )
+Sending Report 227 on 2-18
+Recv: Reject from host12 on (12-2
+Recv: Reject from host9 on (9-2
+Recv: Reject from host15 on (15-2
+Recv: Report 170 from host5 on (5-2
+Recv: Report 75 from host16 on (16-2
+Recv: Reject from host7 on (7-2
+Recv: Reject from host23 on (23-2
+Recv: Report 227 from host18 on (18-2
+Recv: Reject from host1 on (1-2
+Doing procedure end of test
+Sending Report 75 on 2-0
+Recv: Initiate from host0 on (0-2)
+Sending ack on 2-0
+Recv: Test from host4 on (4-2 )
+Sending Reject on 2-4
+Recv: Test from host16 on (16-2 )
+Sending Reject on 2-16
+Recv: Test from host0 on (0-2 )
+Sending Test 2 4 on 2-5
+Sending Test 2 4 on 2-18
+Recv: Reject from host5 on (5-2
+Recv: Test from host18 on (18-2 )
+Sending Reject on 2-18
+Recv: Reject from host18 on (18-2
+Doing procedure end of test
+Sending Report 10000 on 2-0

@@ -1,0 +1,89 @@
+Recv: Initiate from host7 on (7-12)
+Sending ack on 12-7
+Recv: Test from host7 on (7-12 )
+Sending Test 1 2 on 12-10
+Sending Test 1 2 on 12-14
+Sending Test 1 2 on 12-15
+Sending Test 1 2 on 12-16
+Sending Test 1 2 on 12-18
+Sending Test 1 2 on 12-19
+Sending Test 1 2 on 12-20
+Sending Test 1 2 on 12-21
+Sending Test 1 2 on 12-22
+Sending Test 1 2 on 12-23
+Sending Test 1 2 on 12-24
+Sending Test 1 2 on 12-25
+Sending Test 1 2 on 12-28
+Recv: Report 69 from host10 on (10-12
+Recv: Report 85 from host21 on (21-12
+Recv: Report 262 from host24 on (24-12
+Recv: Report 126 from host23 on (23-12
+Recv: Report 329 from host14 on (14-12
+Recv: Test from host10 on (10-12 )
+Sending Report 69 on 12-10
+Recv: Report 344 from host16 on (16-12
+Recv: Test from host28 on (28-12 )
+Sending Reject on 12-28
+Recv: Test from host23 on (23-12 )
+Sending Report 126 on 12-23
+Recv: Report 256 from host20 on (20-12
+Recv: Test from host20 on (20-12 )
+Sending Report 256 on 12-20
+Recv: Test from host14 on (14-12 )
+Sending Report 329 on 12-14
+Recv: Test from host16 on (16-12 )
+Sending Report 344 on 12-16
+Recv: Test from host18 on (18-12 )
+Sending Reject on 12-18
+Recv: Reject from host28 on (28-12
+Recv: Reject from host18 on (18-12
+Recv: Reject from host22 on (22-12
+Recv: Report 156 from host25 on (25-12
+Recv: Test from host24 on (24-12 )
+Sending Report 262 on 12-24
+Recv: Test from host21 on (21-12 )
+Sending Report 85 on 12-21
+Recv: Test from host25 on (25-12 )
+Sending Report 156 on 12-25
+Recv: Test from host19 on (19-12 )
+Sending Report 17 on 12-19
+Recv: Report 17 from host19 on (19-12
+Recv: Report 101 from host15 on (15-12
+Doing procedure end of test
+Sending Report 17 on 12-7
+Recv: Test from host15 on (15-12 )
+Sending Report 101 on 12-15
+Recv: Changeroot from host7 on (7-12
+Doing procedure changeroot
+Sending Connect 1 on (12-19)
+Recv: Connect from host19 on (19-12)
+Sending Initiate 2 12 on 12-19
+Recv: Initiate from host19 on (19-12)
+Sending Initiate 2 12 on 12-7
+Recv: Ack from host19 on (19-12)
+Recv: Ack from host7 on (7-12)
+Cluster12is formed with level 2
+Sending Test 2 12 on 12-7
+Sending Test 2 12 on 12-10
+Sending Test 2 12 on 12-14
+Sending Test 2 12 on 12-15
+Sending Test 2 12 on 12-16
+Sending Test 2 12 on 12-19
+Sending Test 2 12 on 12-20
+Sending Test 2 12 on 12-21
+Sending Test 2 12 on 12-23
+Sending Test 2 12 on 12-24
+Sending Test 2 12 on 12-25
+Recv: Reject from host20 on (20-12
+Recv: Reject from host10 on (10-12
+Recv: Reject from host21 on (21-12
+Recv: Reject from host23 on (23-12
+Recv: Reject from host24 on (24-12
+Recv: Reject from host25 on (25-12
+Recv: Reject from host14 on (14-12
+Recv: Reject from host16 on (16-12
+Recv: Reject from host15 on (15-12
+Recv: Report 10000 from host19 on (19-12
+Recv: Report 10000 from host7 on (7-12
+Doing procedure end of test
+Node 12 is leader

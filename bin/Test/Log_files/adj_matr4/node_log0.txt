@@ -1,0 +1,39 @@
+Recv: Connect from host1 on (1-0)
+Sending Initiate 1 0 on 0-1
+Recv: Initiate from host1 on (1-0)
+Recv: Ack from host1 on (1-0)
+Cluster0is formed with level 1
+Sending Test 1 0 on 0-1
+Sending Test 1 0 on 0-2
+Sending Test 1 0 on 0-3
+Recv: Report 6 from host3 on (3-0
+Recv: Report 3 from host2 on (2-0
+Recv: Test from host2 on (2-0 )
+Sending Report 3 on 0-2
+Recv: Report 4 from host1 on (1-0
+Doing procedure end of test
+Doing procedure changeroot
+Sending Connect 1 on (0-2)
+Recv: Test from host3 on (3-0 )
+Sending Report 6 on 0-3
+Recv: Connect from host2 on (2-0)
+Sending Initiate 2 0 on 0-2
+Recv: Initiate from host2 on (2-0)
+Sending Initiate 2 0 on 0-1
+Recv: Ack from host1 on (1-0)
+Recv: Ack from host2 on (2-0)
+Cluster0is formed with level 2
+Sending Test 2 0 on 0-1
+Sending Test 2 0 on 0-2
+Sending Test 2 0 on 0-3
+Recv: Reject from host3 on (3-0
+Recv: Report 10000 from host2 on (2-0
+Recv: Report 10000 from host1 on (1-0
+Doing procedure end of test
+Node 0 is leader
+Edge(0-1): branch
+Sending finished on 0-1
+Edge(0-2): branch
+Sending finished on 0-2
+Edge(0-3): rejected
+Terminating process: host 0

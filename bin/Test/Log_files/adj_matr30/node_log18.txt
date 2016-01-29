@@ -1,0 +1,312 @@
+Recv: Test from host2 on (2-18 )
+Place the received message a the end of the queue
+Recv: Connect from host22 on (22-18)
+place received message at the end of the queue
+Recv: Test from host12 on (12-18 )
+Place the received message a the end of the queue
+Recv: Initiate from host2 on (2-18)
+Sending ack on 18-2
+Recv: Test from host2 on (2-18 )
+Sending Test 1 2 on 18-0
+Sending Test 1 2 on 18-1
+Sending Test 1 2 on 18-3
+Sending Test 1 2 on 18-10
+Sending Test 1 2 on 18-12
+Sending Test 1 2 on 18-13
+Sending Test 1 2 on 18-14
+Sending Test 1 2 on 18-15
+Sending Test 1 2 on 18-16
+Sending Test 1 2 on 18-20
+Sending Test 1 2 on 18-21
+Sending Test 1 2 on 18-22
+Sending Test 1 2 on 18-24
+Sending Test 1 2 on 18-27
+Recv: Connect from host22 on (22-18)
+Sending Initiate 1 2 on 18-22
+Recv: Test from host12 on (12-18 )
+Sending Reject on 18-12
+Recv: Test from host1 on (1-18 )
+Sending Report 359 on 18-1
+Recv: Test from host10 on (10-18 )
+Sending Report 195 on 18-10
+Recv: Test from host3 on (3-18 )
+Sending Report 188 on 18-3
+Recv: Test from host14 on (14-18 )
+Sending Report 354 on 18-14
+Recv: Test from host16 on (16-18 )
+Sending Report 351 on 18-16
+Recv: Report 195 from host10 on (10-18
+Recv: Reject from host12 on (12-18
+Recv: Test from host20 on (20-18 )
+Sending Report 149 on 18-20
+Recv: Report 351 from host16 on (16-18
+Recv: Report 188 from host3 on (3-18
+Recv: Report 359 from host1 on (1-18
+Recv: Report 354 from host14 on (14-18
+Recv: Report 149 from host20 on (20-18
+Recv: Ack from host22 on (22-18)
+Recv: Test from host27 on (27-18 )
+Sending Report 423 on 18-27
+Recv: Test from host24 on (24-18 )
+Sending Report 38 on 18-24
+Recv: Test from host21 on (21-18 )
+Sending Report 161 on 18-21
+Recv: Report 38 from host24 on (24-18
+Recv: Report 161 from host21 on (21-18
+Recv: Report 423 from host27 on (27-18
+Recv: Test from host0 on (0-18 )
+Sending Report 63 on 18-0
+Recv: Test from host13 on (13-18 )
+Sending Report 74 on 18-13
+Recv: Report 74 from host13 on (13-18
+Recv: Report 63 from host0 on (0-18
+Recv: Report 60 from host22 on (22-18
+Recv: Report 314 from host15 on (15-18
+Doing procedure end of test
+Sending Report 38 on 18-2
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Test from host15 on (15-18 )
+Sending Report 314 on 18-15
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Connect from host24 on (24-18)
+place received message at the end of the queue
+Recv: Initiate from host2 on (2-18)
+Sending Initiate 2 12 on 18-22
+Recv: Connect from host24 on (24-18)
+Sending Initiate 2 12 on 18-24
+Recv: Ack from host22 on (22-18)
+Sending Ack on 18-2
+Recv: Ack from host24 on (24-18)
+Recv: Test from host2 on (2-18 )
+Sending Test 2 12 on 18-0
+Sending Test 2 12 on 18-1
+Sending Test 2 12 on 18-3
+Sending Test 2 12 on 18-10
+Sending Test 2 12 on 18-13
+Sending Test 2 12 on 18-14
+Sending Test 2 12 on 18-15
+Sending Test 2 12 on 18-16
+Sending Test 2 12 on 18-20
+Sending Test 2 12 on 18-21
+Sending Test 2 12 on 18-22
+Sending Test 2 12 on 18-24
+Sending Test 2 12 on 18-27
+Recv: Reject from host1 on (1-18
+Recv: Reject from host10 on (10-18
+Recv: Reject from host14 on (14-18
+Recv: Reject from host3 on (3-18
+Recv: Reject from host20 on (20-18
+Recv: Reject from host27 on (27-18
+Recv: Reject from host16 on (16-18
+Recv: Reject from host21 on (21-18
+Recv: Reject from host13 on (13-18
+Recv: Test from host0 on (0-18 )
+Sending Reject on 18-0
+Recv: Reject from host15 on (15-18
+Recv: Reject from host0 on (0-18
+Recv: Report 10000 from host22 on (22-18
+Recv: Report 10000 from host24 on (24-18
+Doing procedure end of test
+Sending Report 10000 on 18-2

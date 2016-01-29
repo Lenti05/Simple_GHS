@@ -1,0 +1,91 @@
+Recv: Connect from host4 on (4-20)
+Sending Initiate 1 4 on 20-4
+Recv: Connect from host11 on (11-20)
+place received message at the end of the queue
+Recv: Test from host12 on (12-20 )
+Place the received message a the end of the queue
+Recv: Initiate from host4 on (4-20)
+Sending ack on 20-4
+Recv: Connect from host11 on (11-20)
+Sending Initiate 1 4 on 20-11
+Recv: Test from host12 on (12-20 )
+Sending Report 249 on 20-12
+Recv: Test from host0 on (0-20 )
+Sending Report 190 on 20-0
+Recv: Ack from host11 on (11-20)
+Recv: Test from host4 on (4-20 )
+Sending Test 1 4 on 20-0
+Sending Test 1 4 on 20-1
+Sending Test 1 4 on 20-3
+Sending Test 1 4 on 20-7
+Sending Test 1 4 on 20-11
+Sending Test 1 4 on 20-12
+Sending Test 1 4 on 20-16
+Sending Test 1 4 on 20-18
+Sending Test 1 4 on 20-19
+Sending Test 1 4 on 20-21
+Sending Test 1 4 on 20-24
+Recv: Test from host21 on (21-20 )
+Sending Report 178 on 20-21
+Recv: Report 190 from host0 on (0-20
+Recv: Test from host3 on (3-20 )
+Sending Report 264 on 20-3
+Recv: Report 264 from host3 on (3-20
+Recv: Report 249 from host12 on (12-20
+Recv: Report 230 from host24 on (24-20
+Recv: Test from host16 on (16-20 )
+Sending Report 286 on 20-16
+Recv: Report 74 from host19 on (19-20
+Recv: Report 178 from host21 on (21-20
+Recv: Test from host7 on (7-20 )
+Sending Report 111 on 20-7
+Recv: Test from host19 on (19-20 )
+Sending Report 74 on 20-19
+Recv: Test from host24 on (24-20 )
+Sending Report 230 on 20-24
+Recv: Test from host18 on (18-20 )
+Sending Report 103 on 20-18
+Recv: Report 286 from host16 on (16-20
+Recv: Report 111 from host7 on (7-20
+Recv: Report 103 from host18 on (18-20
+Recv: Report 184 from host1 on (1-20
+Recv: Report 55 from host11 on (11-20
+Doing procedure end of test
+Sending Report 55 on 20-4
+Recv: Test from host1 on (1-20 )
+Sending Report 184 on 20-1
+Recv: Initiate from host4 on (4-20)
+Sending Initiate 2 4 on 20-11
+Recv: Ack from host11 on (11-20)
+Sending Ack on 20-4
+Recv: Test from host4 on (4-20 )
+Sending Test 2 4 on 20-0
+Sending Test 2 4 on 20-1
+Sending Test 2 4 on 20-3
+Sending Test 2 4 on 20-7
+Sending Test 2 4 on 20-11
+Sending Test 2 4 on 20-12
+Sending Test 2 4 on 20-16
+Sending Test 2 4 on 20-18
+Sending Test 2 4 on 20-19
+Sending Test 2 4 on 20-21
+Sending Test 2 4 on 20-24
+Recv: Reject from host0 on (0-20
+Recv: Reject from host1 on (1-20
+Recv: Test from host24 on (24-20 )
+Sending Reject on 20-24
+Recv: Test from host19 on (19-20 )
+Sending Reject on 20-19
+Recv: Reject from host3 on (3-20
+Recv: Reject from host7 on (7-20
+Recv: Reject from host12 on (12-20
+Recv: Reject from host18 on (18-20
+Recv: Reject from host21 on (21-20
+Recv: Test from host16 on (16-20 )
+Sending Reject on 20-16
+Recv: Reject from host24 on (24-20
+Recv: Reject from host16 on (16-20
+Recv: Reject from host19 on (19-20
+Recv: Report 10000 from host11 on (11-20
+Doing procedure end of test
+Sending Report 10000 on 20-4

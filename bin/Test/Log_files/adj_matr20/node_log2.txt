@@ -1,0 +1,82 @@
+Recv: Connect from host0 on (0-2)
+Sending Initiate 1 0 on 2-0
+Recv: Initiate from host0 on (0-2)
+Sending ack on 2-0
+Recv: Test from host0 on (0-2 )
+Sending Test 1 0 on 2-6
+Sending Test 1 0 on 2-7
+Sending Test 1 0 on 2-9
+Sending Test 1 0 on 2-13
+Sending Test 1 0 on 2-17
+Sending Test 1 0 on 2-19
+Recv: Report 90 from host7 on (7-2
+Recv: Test from host7 on (7-2 )
+Sending Report 90 on 2-7
+Recv: Report 114 from host17 on (17-2
+Recv: Test from host13 on (13-2 )
+Sending Report 184 on 2-13
+Recv: Report 53 from host6 on (6-2
+Recv: Report 184 from host13 on (13-2
+Recv: Test from host9 on (9-2 )
+Sending Report 80 on 2-9
+Recv: Report 101 from host19 on (19-2
+Recv: Test from host17 on (17-2 )
+Sending Report 114 on 2-17
+Recv: Report 80 from host9 on (9-2
+Doing procedure end of test
+Sending Report 53 on 2-0
+Recv: Test from host19 on (19-2 )
+Sending Report 101 on 2-19
+Recv: Test from host6 on (6-2 )
+Sending Report 53 on 2-6
+Recv: Initiate from host0 on (0-2)
+Sending ack on 2-0
+Recv: Test from host0 on (0-2 )
+Sending Test 2 0 on 2-6
+Sending Test 2 0 on 2-7
+Sending Test 2 0 on 2-9
+Sending Test 2 0 on 2-13
+Sending Test 2 0 on 2-17
+Sending Test 2 0 on 2-19
+Recv: Report 53 from host6 on (6-2
+Recv: Report 90 from host7 on (7-2
+Recv: Reject from host9 on (9-2
+Recv: Report 184 from host13 on (13-2
+Recv: Report 114 from host17 on (17-2
+Recv: Report 101 from host19 on (19-2
+Doing procedure end of test
+Sending Report 53 on 2-0
+Recv: Test from host7 on (7-2 )
+Sending Report 90 on 2-7
+Recv: Test from host13 on (13-2 )
+Sending Report 184 on 2-13
+Recv: Test from host17 on (17-2 )
+Sending Report 114 on 2-17
+Recv: Test from host6 on (6-2 )
+Sending Report 53 on 2-6
+Recv: Test from host19 on (19-2 )
+Sending Report 101 on 2-19
+Recv: Initiate from host0 on (0-2)
+Sending ack on 2-0
+Recv: Test from host0 on (0-2 )
+Sending Test 3 0 on 2-6
+Sending Test 3 0 on 2-7
+Sending Test 3 0 on 2-13
+Sending Test 3 0 on 2-17
+Sending Test 3 0 on 2-19
+Recv: Reject from host6 on (6-2
+Recv: Reject from host7 on (7-2
+Recv: Reject from host13 on (13-2
+Recv: Reject from host17 on (17-2
+Recv: Reject from host19 on (19-2
+Doing procedure end of test
+Sending Report 10000 on 2-0
+Recv: Finished from host 0on 0-2
+Edge(2-0): branch
+Edge(2-6): rejected
+Edge(2-7): rejected
+Edge(2-9): rejected
+Edge(2-13): rejected
+Edge(2-17): rejected
+Edge(2-19): rejected
+Terminating process: host 2

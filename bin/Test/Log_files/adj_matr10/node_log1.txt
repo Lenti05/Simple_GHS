@@ -1,0 +1,37 @@
+Recv: Connect from host0 on (0-1)
+Sending Initiate 1 0 on 1-0
+Recv: Initiate from host0 on (0-1)
+Sending ack on 1-0
+Recv: Test from host0 on (0-1 )
+Sending Test 1 0 on 1-4
+Sending Test 1 0 on 1-6
+Recv: Report 9 from host4 on (4-1
+Recv: Test from host4 on (4-1 )
+Sending Report 9 on 1-4
+Recv: Report 8 from host6 on (6-1
+Doing procedure end of test
+Sending Report 8 on 1-0
+Recv: Test from host6 on (6-1 )
+Sending Report 8 on 1-6
+Recv: Connect from host6 on (6-1)
+place received message at the end of the queue
+Recv: Connect from host6 on (6-1)
+place received message at the end of the queue
+Recv: Initiate from host0 on (0-1)
+Sending ack on 1-0
+Recv: Connect from host6 on (6-1)
+Sending Initiate 2 0 on 1-6
+Recv: Ack from host6 on (6-1)
+Recv: Test from host0 on (0-1 )
+Sending Test 2 0 on 1-4
+Sending Test 2 0 on 1-6
+Recv: Reject from host4 on (4-1
+Recv: Report 10000 from host6 on (6-1
+Doing procedure end of test
+Sending Report 10000 on 1-0
+Recv: Finished from host 0on 0-1
+Edge(1-0): branch
+Edge(1-4): rejected
+Edge(1-6): branch
+Sending finished on 1-6
+Terminating process: host 1

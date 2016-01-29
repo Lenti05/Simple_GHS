@@ -1,0 +1,121 @@
+Recv: Connect from host4 on (4-18)
+place received message at the end of the queue
+Recv: Connect from host8 on (8-18)
+place received message at the end of the queue
+Recv: Connect from host13 on (13-18)
+Sending Initiate 1 13 on 18-13
+Recv: Initiate from host13 on (13-18)
+Sending ack on 18-13
+Recv: Test from host11 on (11-18 )
+Sending Report 100 on 18-11
+Recv: Test from host16 on (16-18 )
+Sending Report 82 on 18-16
+Recv: Connect from host4 on (4-18)
+Sending Initiate 1 13 on 18-4
+Recv: Connect from host8 on (8-18)
+Sending Initiate 1 13 on 18-8
+Recv: Ack from host8 on (8-18)
+Recv: Ack from host4 on (4-18)
+Recv: Test from host13 on (13-18 )
+Sending Test 1 13 on 18-4
+Sending Test 1 13 on 18-8
+Sending Test 1 13 on 18-9
+Sending Test 1 13 on 18-10
+Sending Test 1 13 on 18-11
+Sending Test 1 13 on 18-15
+Sending Test 1 13 on 18-16
+Sending Test 1 13 on 18-17
+Recv: Test from host10 on (10-18 )
+Sending Report 163 on 18-10
+Recv: Test from host9 on (9-18 )
+Sending Report 128 on 18-9
+Recv: Report 100 from host11 on (11-18
+Recv: Report 163 from host10 on (10-18
+Recv: Test from host15 on (15-18 )
+Sending Report 77 on 18-15
+Recv: Test from host17 on (17-18 )
+Sending Report 174 on 18-17
+Recv: Report 82 from host16 on (16-18
+Recv: Report 128 from host9 on (9-18
+Recv: Report 174 from host17 on (17-18
+Recv: Report 77 from host15 on (15-18
+Recv: Report 30 from host4 on (4-18
+Recv: Report 53 from host8 on (8-18
+Doing procedure end of test
+Sending Report 30 on 18-13
+Recv: Changeroot from host13 on (13-18
+Doing procedure changeroot
+Sending Changeroot on 18-4
+Recv: Initiate from host4 on (4-18)
+Sending Initiate 2 4 on 18-8
+Sending Initiate 2 4 on 18-13
+Recv: Ack from host8 on (8-18)
+Recv: Ack from host13 on (13-18)
+Sending Ack on 18-4
+Recv: Test from host4 on (4-18 )
+Sending Test 2 4 on 18-8
+Sending Test 2 4 on 18-9
+Sending Test 2 4 on 18-10
+Sending Test 2 4 on 18-11
+Sending Test 2 4 on 18-13
+Sending Test 2 4 on 18-15
+Sending Test 2 4 on 18-16
+Sending Test 2 4 on 18-17
+Recv: Test from host15 on (15-18 )
+Sending Report 77 on 18-15
+Recv: Test from host11 on (11-18 )
+Sending Report 100 on 18-11
+Recv: Report 100 from host11 on (11-18
+Recv: Test from host16 on (16-18 )
+Sending Reject on 18-16
+Recv: Report 77 from host15 on (15-18
+Recv: Reject from host17 on (17-18
+Recv: Test from host10 on (10-18 )
+Sending Reject on 18-10
+Recv: Test from host9 on (9-18 )
+Sending Report 128 on 18-9
+Recv: Reject from host16 on (16-18
+Recv: Reject from host10 on (10-18
+Recv: Report 128 from host9 on (9-18
+Recv: Report 53 from host8 on (8-18
+Recv: Report 54 from host13 on (13-18
+Doing procedure end of test
+Sending Report 53 on 18-4
+Recv: Initiate from host4 on (4-18)
+Sending Initiate 3 0 on 18-8
+Sending Initiate 3 0 on 18-13
+Recv: Ack from host8 on (8-18)
+Recv: Ack from host13 on (13-18)
+Sending Ack on 18-4
+Recv: Test from host4 on (4-18 )
+Sending Test 3 0 on 18-8
+Sending Test 3 0 on 18-9
+Sending Test 3 0 on 18-11
+Sending Test 3 0 on 18-13
+Sending Test 3 0 on 18-15
+Recv: Test from host15 on (15-18 )
+Sending Reject on 18-15
+Recv: Test from host11 on (11-18 )
+Sending Reject on 18-11
+Recv: Reject from host15 on (15-18
+Recv: Reject from host11 on (11-18
+Recv: Test from host9 on (9-18 )
+Sending Reject on 18-9
+Recv: Reject from host9 on (9-18
+Recv: Report 10000 from host8 on (8-18
+Recv: Report 10000 from host13 on (13-18
+Doing procedure end of test
+Sending Report 10000 on 18-4
+Recv: Finished from host 4on 4-18
+Edge(18-4): branch
+Edge(18-8): branch
+Sending finished on 18-8
+Edge(18-9): rejected
+Edge(18-10): rejected
+Edge(18-11): rejected
+Edge(18-13): branch
+Sending finished on 18-13
+Edge(18-15): rejected
+Edge(18-16): rejected
+Edge(18-17): rejected
+Terminating process: host 18

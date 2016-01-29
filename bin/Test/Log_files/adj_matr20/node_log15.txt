@@ -1,0 +1,168 @@
+Recv: Test from host0 on (0-15 )
+Place the received message a the end of the queue
+Recv: Connect from host11 on (11-15)
+Sending Initiate 1 11 on 15-11
+Recv: Connect from host14 on (14-15)
+place received message at the end of the queue
+Recv: Initiate from host11 on (11-15)
+Sending ack on 15-11
+Recv: Test from host0 on (0-15 )
+Sending Report 42 on 15-0
+Recv: Connect from host14 on (14-15)
+Sending Initiate 1 11 on 15-14
+Recv: Ack from host14 on (14-15)
+Recv: Test from host11 on (11-15 )
+Sending Test 1 11 on 15-0
+Sending Test 1 11 on 15-1
+Sending Test 1 11 on 15-4
+Sending Test 1 11 on 15-6
+Sending Test 1 11 on 15-9
+Sending Test 1 11 on 15-12
+Sending Test 1 11 on 15-13
+Sending Test 1 11 on 15-14
+Sending Test 1 11 on 15-16
+Sending Test 1 11 on 15-18
+Recv: Test from host16 on (16-15 )
+Sending Report 55 on 15-16
+Recv: Test from host13 on (13-15 )
+Sending Report 87 on 15-13
+Recv: Test from host9 on (9-15 )
+Sending Reject on 15-9
+Recv: Report 42 from host0 on (0-15
+Recv: Test from host12 on (12-15 )
+Sending Report 164 on 15-12
+Recv: Test from host18 on (18-15 )
+Sending Report 77 on 15-18
+Recv: Report 153 from host6 on (6-15
+Recv: Test from host4 on (4-15 )
+Sending Report 154 on 15-4
+Recv: Report 87 from host13 on (13-15
+Recv: Report 164 from host12 on (12-15
+Recv: Report 77 from host18 on (18-15
+Recv: Report 154 from host4 on (4-15
+Recv: Report 55 from host16 on (16-15
+Recv: Connect from host0 on (0-15)
+place received message at the end of the queue
+Recv: Reject from host9 on (9-15
+Recv: Connect from host0 on (0-15)
+place received message at the end of the queue
+Recv: Test from host6 on (6-15 )
+Sending Report 153 on 15-6
+Recv: Connect from host0 on (0-15)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-15)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-15)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-15)
+place received message at the end of the queue
+Recv: Test from host1 on (1-15 )
+Sending Report 120 on 15-1
+Recv: Connect from host0 on (0-15)
+place received message at the end of the queue
+Recv: Report 120 from host1 on (1-15
+Recv: Report 54 from host14 on (14-15
+Doing procedure end of test
+Sending Report 42 on 15-11
+Recv: Connect from host0 on (0-15)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-15)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-15)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-15)
+place received message at the end of the queue
+Recv: Connect from host0 on (0-15)
+place received message at the end of the queue
+Recv: Changeroot from host11 on (11-15
+Doing procedure changeroot
+Sending Connect 1 on (15-0)
+Recv: Connect from host0 on (0-15)
+Sending Initiate 2 0 on 15-0
+Recv: Initiate from host0 on (0-15)
+Sending Initiate 2 0 on 15-11
+Sending Initiate 2 0 on 15-14
+Recv: Ack from host14 on (14-15)
+Recv: Ack from host11 on (11-15)
+Sending Ack on 15-0
+Recv: Test from host0 on (0-15 )
+Sending Test 2 0 on 15-1
+Sending Test 2 0 on 15-4
+Sending Test 2 0 on 15-6
+Sending Test 2 0 on 15-11
+Sending Test 2 0 on 15-12
+Sending Test 2 0 on 15-13
+Sending Test 2 0 on 15-14
+Sending Test 2 0 on 15-16
+Sending Test 2 0 on 15-18
+Recv: Report 120 from host1 on (1-15
+Recv: Test from host4 on (4-15 )
+Sending Report 154 on 15-4
+Recv: Report 153 from host6 on (6-15
+Recv: Report 164 from host12 on (12-15
+Recv: Report 87 from host13 on (13-15
+Recv: Report 154 from host4 on (4-15
+Recv: Report 55 from host16 on (16-15
+Recv: Test from host18 on (18-15 )
+Sending Report 77 on 15-18
+Recv: Test from host16 on (16-15 )
+Sending Report 55 on 15-16
+Recv: Report 77 from host18 on (18-15
+Recv: Test from host13 on (13-15 )
+Sending Report 87 on 15-13
+Recv: Test from host12 on (12-15 )
+Sending Report 164 on 15-12
+Recv: Test from host1 on (1-15 )
+Sending Report 120 on 15-1
+Recv: Test from host6 on (6-15 )
+Sending Report 153 on 15-6
+Recv: Report 54 from host14 on (14-15
+Recv: Report 45 from host11 on (11-15
+Doing procedure end of test
+Sending Report 45 on 15-0
+Recv: Initiate from host0 on (0-15)
+Sending Initiate 3 0 on 15-11
+Sending Initiate 3 0 on 15-14
+Recv: Ack from host14 on (14-15)
+Recv: Ack from host11 on (11-15)
+Sending Ack on 15-0
+Recv: Test from host0 on (0-15 )
+Sending Test 3 0 on 15-1
+Sending Test 3 0 on 15-4
+Sending Test 3 0 on 15-6
+Sending Test 3 0 on 15-11
+Sending Test 3 0 on 15-12
+Sending Test 3 0 on 15-13
+Sending Test 3 0 on 15-14
+Sending Test 3 0 on 15-16
+Sending Test 3 0 on 15-18
+Recv: Reject from host1 on (1-15
+Recv: Reject from host4 on (4-15
+Recv: Reject from host6 on (6-15
+Recv: Reject from host12 on (12-15
+Recv: Reject from host13 on (13-15
+Recv: Test from host16 on (16-15 )
+Sending Reject on 15-16
+Recv: Reject from host16 on (16-15
+Recv: Test from host18 on (18-15 )
+Sending Reject on 15-18
+Recv: Reject from host18 on (18-15
+Recv: Report 10000 from host14 on (14-15
+Recv: Report 10000 from host11 on (11-15
+Doing procedure end of test
+Sending Report 10000 on 15-0
+Recv: Finished from host 0on 0-15
+Edge(15-0): branch
+Edge(15-1): rejected
+Edge(15-4): rejected
+Edge(15-6): rejected
+Edge(15-9): rejected
+Edge(15-11): branch
+Sending finished on 15-11
+Edge(15-12): rejected
+Edge(15-13): rejected
+Edge(15-14): branch
+Sending finished on 15-14
+Edge(15-16): rejected
+Edge(15-18): rejected
+Terminating process: host 15

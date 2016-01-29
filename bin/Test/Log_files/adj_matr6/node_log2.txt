@@ -1,0 +1,43 @@
+Node2 Doing process WAKEUP
+Edge(2-3) set to BRANCH
+Fragment-level: 0
+Node-state: sleeping -> alive
+Sending Connect on (2-3)
+Recv: Test from host0 on (0-2 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-2 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-2 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-2 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-2 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-2 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-2 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-2 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-2 )
+Place the received message a the end of the queue
+Recv: Initiate from host3 on (3-2)
+Sending ack on 2-3
+Recv: Test from host0 on (0-2 )
+Sending Report 6 on 2-0
+Recv: Test from host3 on (3-2 )
+Sending Test 1 4 on 2-0
+Recv: Report 6 from host0 on (0-2
+Doing procedure end of test
+Sending Report 6 on 2-3
+Recv: Initiate from host3 on (3-2)
+Sending ack on 2-3
+Recv: Test from host0 on (0-2 )
+Sending Reject on 2-0
+Recv: Test from host3 on (3-2 )
+Doing procedure end of test
+Sending Report 10000 on 2-3
+Recv: Finished from host 3on 3-2
+Edge(2-0): rejected
+Edge(2-3): branch
+Terminating process: host 2

@@ -1,0 +1,138 @@
+Recv: Test from host0 on (0-17 )
+Place the received message a the end of the queue
+Recv: Test from host2 on (2-17 )
+Place the received message a the end of the queue
+Recv: Connect from host19 on (19-17)
+Sending Initiate 1 17 on 17-19
+Recv: Test from host0 on (0-17 )
+Place the received message a the end of the queue
+Recv: Test from host2 on (2-17 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-17 )
+Place the received message a the end of the queue
+Recv: Test from host2 on (2-17 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-17 )
+Place the received message a the end of the queue
+Recv: Test from host2 on (2-17 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-17 )
+Place the received message a the end of the queue
+Recv: Test from host2 on (2-17 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-17 )
+Place the received message a the end of the queue
+Recv: Test from host2 on (2-17 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-17 )
+Place the received message a the end of the queue
+Recv: Test from host2 on (2-17 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-17 )
+Place the received message a the end of the queue
+Recv: Initiate from host19 on (19-17)
+Recv: Test from host2 on (2-17 )
+Sending Report 114 on 17-2
+Recv: Test from host0 on (0-17 )
+Sending Report 50 on 17-0
+Recv: Ack from host19 on (19-17)
+Cluster17is formed with level 1
+Sending Test 1 17 on 17-0
+Sending Test 1 17 on 17-2
+Sending Test 1 17 on 17-6
+Sending Test 1 17 on 17-9
+Sending Test 1 17 on 17-10
+Sending Test 1 17 on 17-12
+Sending Test 1 17 on 17-14
+Sending Test 1 17 on 17-18
+Sending Test 1 17 on 17-19
+Recv: Test from host10 on (10-17 )
+Sending Report 31 on 17-10
+Recv: Test from host9 on (9-17 )
+Sending Report 45 on 17-9
+Recv: Test from host12 on (12-17 )
+Sending Report 167 on 17-12
+Recv: Test from host18 on (18-17 )
+Sending Report 174 on 17-18
+Recv: Report 50 from host0 on (0-17
+Recv: Report 114 from host2 on (2-17
+Recv: Report 31 from host10 on (10-17
+Recv: Report 174 from host18 on (18-17
+Recv: Report 102 from host6 on (6-17
+Recv: Report 167 from host12 on (12-17
+Recv: Test from host14 on (14-17 )
+Sending Report 145 on 17-14
+Recv: Report 45 from host9 on (9-17
+Recv: Report 145 from host14 on (14-17
+Recv: Test from host6 on (6-17 )
+Sending Report 102 on 17-6
+Recv: Report 36 from host19 on (19-17
+Doing procedure end of test
+Doing procedure changeroot
+Sending Connect 1 on (17-10)
+Recv: Initiate from host10 on (10-17)
+Sending Initiate 2 4 on 17-19
+Recv: Ack from host19 on (19-17)
+Sending Ack on 17-10
+Recv: Test from host2 on (2-17 )
+Sending Report 114 on 17-2
+Recv: Test from host0 on (0-17 )
+Sending Report 50 on 17-0
+Recv: Test from host18 on (18-17 )
+Sending Reject on 17-18
+Recv: Test from host14 on (14-17 )
+Sending Report 145 on 17-14
+Recv: Test from host10 on (10-17 )
+Sending Test 2 4 on 17-0
+Sending Test 2 4 on 17-2
+Sending Test 2 4 on 17-6
+Sending Test 2 4 on 17-9
+Sending Test 2 4 on 17-12
+Sending Test 2 4 on 17-14
+Sending Test 2 4 on 17-19
+Recv: Test from host9 on (9-17 )
+Sending Report 45 on 17-9
+Recv: Test from host12 on (12-17 )
+Sending Reject on 17-12
+Recv: Report 50 from host0 on (0-17
+Recv: Report 114 from host2 on (2-17
+Recv: Test from host6 on (6-17 )
+Sending Reject on 17-6
+Recv: Reject from host6 on (6-17
+Recv: Reject from host12 on (12-17
+Recv: Report 145 from host14 on (14-17
+Recv: Report 45 from host9 on (9-17
+Recv: Report 88 from host19 on (19-17
+Doing procedure end of test
+Sending Report 45 on 17-10
+Recv: Initiate from host10 on (10-17)
+Sending Initiate 3 0 on 17-19
+Recv: Ack from host19 on (19-17)
+Sending Ack on 17-10
+Recv: Test from host0 on (0-17 )
+Sending Reject on 17-0
+Recv: Test from host2 on (2-17 )
+Sending Reject on 17-2
+Recv: Test from host10 on (10-17 )
+Sending Test 3 0 on 17-9
+Sending Test 3 0 on 17-14
+Sending Test 3 0 on 17-19
+Recv: Reject from host9 on (9-17
+Recv: Test from host14 on (14-17 )
+Sending Reject on 17-14
+Recv: Reject from host14 on (14-17
+Recv: Report 10000 from host19 on (19-17
+Doing procedure end of test
+Sending Report 10000 on 17-10
+Recv: Finished from host 10on 10-17
+Edge(17-0): rejected
+Edge(17-2): rejected
+Edge(17-6): rejected
+Edge(17-9): rejected
+Edge(17-10): branch
+Edge(17-12): rejected
+Edge(17-14): rejected
+Edge(17-18): rejected
+Edge(17-19): branch
+Sending finished on 17-19
+Terminating process: host 17

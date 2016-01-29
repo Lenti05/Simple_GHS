@@ -1,0 +1,275 @@
+Recv: Test from host8 on (8-7 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-7 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-7 )
+Place the received message a the end of the queue
+Recv: Test from host8 on (8-7 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-7 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-7 )
+Place the received message a the end of the queue
+Recv: Test from host8 on (8-7 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-7 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-7 )
+Place the received message a the end of the queue
+Recv: Test from host8 on (8-7 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-7 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-7 )
+Place the received message a the end of the queue
+Recv: Test from host8 on (8-7 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-7 )
+Place the received message a the end of the queue
+Recv: Test from host0 on (0-7 )
+Place the received message a the end of the queue
+Recv: Test from host8 on (8-7 )
+Place the received message a the end of the queue
+Recv: Test from host12 on (12-7 )
+Place the received message a the end of the queue
+Recv: Initiate from host12 on (12-7)
+Sending ack on 7-12
+Recv: Test from host0 on (0-7 )
+Sending Reject on 7-0
+Recv: Test from host8 on (8-7 )
+Sending Report 76 on 7-8
+Recv: Test from host12 on (12-7 )
+Sending Test 1 12 on 7-1
+Sending Test 1 12 on 7-2
+Sending Test 1 12 on 7-3
+Sending Test 1 12 on 7-4
+Sending Test 1 12 on 7-8
+Sending Test 1 12 on 7-10
+Sending Test 1 12 on 7-13
+Sending Test 1 12 on 7-15
+Sending Test 1 12 on 7-18
+Sending Test 1 12 on 7-20
+Sending Test 1 12 on 7-21
+Sending Test 1 12 on 7-22
+Recv: Test from host4 on (4-7 )
+Sending Report 206 on 7-4
+Recv: Test from host21 on (21-7 )
+Sending Report 113 on 7-21
+Recv: Test from host22 on (22-7 )
+Sending Report 35 on 7-22
+Recv: Test from host3 on (3-7 )
+Sending Reject on 7-3
+Recv: Test from host15 on (15-7 )
+Sending Reject on 7-15
+Recv: Test from host13 on (13-7 )
+Sending Report 97 on 7-13
+Recv: Test from host20 on (20-7 )
+Sending Report 111 on 7-20
+Recv: Report 206 from host4 on (4-7
+Recv: Report 76 from host8 on (8-7
+Recv: Reject from host3 on (3-7
+Recv: Test from host10 on (10-7 )
+Sending Reject on 7-10
+Recv: Test from host2 on (2-7 )
+Sending Reject on 7-2
+Recv: Report 97 from host13 on (13-7
+Recv: Reject from host10 on (10-7
+Recv: Reject from host15 on (15-7
+Recv: Test from host18 on (18-7 )
+Sending Report 195 on 7-18
+Recv: Report 35 from host22 on (22-7
+Recv: Report 113 from host21 on (21-7
+Recv: Reject from host2 on (2-7
+Recv: Report 111 from host20 on (20-7
+Recv: Report 195 from host18 on (18-7
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Reject from host1 on (1-7
+Doing procedure end of test
+Sending Report 35 on 7-12
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Connect from host22 on (22-7)
+place received message at the end of the queue
+Recv: Initiate from host12 on (12-7)
+Sending ack on 7-12
+Recv: Connect from host22 on (22-7)
+Sending Initiate 2 4 on 7-22
+Recv: Test from host4 on (4-7 )
+Sending Reject on 7-4
+Recv: Ack from host22 on (22-7)
+Recv: Test from host20 on (20-7 )
+Sending Reject on 7-20
+Recv: Test from host8 on (8-7 )
+Sending Reject on 7-8
+Recv: Test from host12 on (12-7 )
+Sending Test 2 4 on 7-13
+Sending Test 2 4 on 7-18
+Sending Test 2 4 on 7-21
+Sending Test 2 4 on 7-22
+Recv: Reject from host13 on (13-7
+Recv: Reject from host21 on (21-7
+Recv: Test from host18 on (18-7 )
+Sending Reject on 7-18
+Recv: Reject from host18 on (18-7
+Recv: Report 10000 from host22 on (22-7
+Doing procedure end of test
+Sending Report 10000 on 7-12

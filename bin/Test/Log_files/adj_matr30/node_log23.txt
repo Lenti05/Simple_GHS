@@ -1,0 +1,140 @@
+Recv: Connect from host13 on (13-23)
+place received message at the end of the queue
+Recv: Connect from host27 on (27-23)
+Sending Initiate 1 23 on 23-27
+Recv: Test from host12 on (12-23 )
+Place the received message a the end of the queue
+Recv: Connect from host13 on (13-23)
+place received message at the end of the queue
+Recv: Test from host12 on (12-23 )
+Place the received message a the end of the queue
+Recv: Connect from host13 on (13-23)
+place received message at the end of the queue
+Recv: Test from host12 on (12-23 )
+Place the received message a the end of the queue
+Recv: Connect from host13 on (13-23)
+place received message at the end of the queue
+Recv: Test from host12 on (12-23 )
+Place the received message a the end of the queue
+Recv: Connect from host13 on (13-23)
+place received message at the end of the queue
+Recv: Test from host12 on (12-23 )
+Place the received message a the end of the queue
+Recv: Connect from host13 on (13-23)
+place received message at the end of the queue
+Recv: Test from host12 on (12-23 )
+Place the received message a the end of the queue
+Recv: Connect from host13 on (13-23)
+place received message at the end of the queue
+Recv: Test from host12 on (12-23 )
+Place the received message a the end of the queue
+Recv: Connect from host13 on (13-23)
+place received message at the end of the queue
+Recv: Test from host12 on (12-23 )
+Place the received message a the end of the queue
+Recv: Initiate from host27 on (27-23)
+Recv: Connect from host13 on (13-23)
+Sending Initiate 1 23 on 23-13
+Recv: Test from host12 on (12-23 )
+Sending Report 126 on 23-12
+Recv: Ack from host27 on (27-23)
+Cluster23is formed with level 1
+Sending Test 1 23 on 23-1
+Sending Test 1 23 on 23-3
+Sending Test 1 23 on 23-4
+Sending Test 1 23 on 23-6
+Sending Test 1 23 on 23-11
+Sending Test 1 23 on 23-12
+Sending Test 1 23 on 23-13
+Sending Test 1 23 on 23-14
+Sending Test 1 23 on 23-15
+Sending Test 1 23 on 23-20
+Sending Test 1 23 on 23-21
+Sending Test 1 23 on 23-24
+Sending Test 1 23 on 23-25
+Sending Test 1 23 on 23-27
+Recv: Report 126 from host12 on (12-23
+Recv: Report 170 from host3 on (3-23
+Recv: Test from host11 on (11-23 )
+Sending Report 217 on 23-11
+Recv: Report 242 from host24 on (24-23
+Recv: Report 217 from host11 on (11-23
+Recv: Test from host1 on (1-23 )
+Sending Report 70 on 23-1
+Recv: Test from host3 on (3-23 )
+Sending Report 170 on 23-3
+Recv: Report 70 from host1 on (1-23
+Recv: Test from host14 on (14-23 )
+Sending Report 299 on 23-14
+Recv: Test from host6 on (6-23 )
+Sending Report 371 on 23-6
+Recv: Report 299 from host14 on (14-23
+Recv: Test from host20 on (20-23 )
+Sending Report 341 on 23-20
+Recv: Report 371 from host6 on (6-23
+Recv: Report 341 from host20 on (20-23
+Recv: Report 221 from host25 on (25-23
+Recv: Test from host24 on (24-23 )
+Sending Report 242 on 23-24
+Recv: Test from host21 on (21-23 )
+Sending Report 328 on 23-21
+Recv: Report 100 from host4 on (4-23
+Recv: Report 328 from host21 on (21-23
+Recv: Test from host4 on (4-23 )
+Sending Report 100 on 23-4
+Recv: Ack from host13 on (13-23)
+Recv: Test from host25 on (25-23 )
+Sending Report 221 on 23-25
+Recv: Report 78 from host27 on (27-23
+Recv: Report 74 from host13 on (13-23
+Recv: Test from host15 on (15-23 )
+Sending Report 125 on 23-15
+Recv: Report 125 from host15 on (15-23
+Doing procedure end of test
+Doing procedure changeroot
+Sending Connect 1 on (23-1)
+Recv: Initiate from host1 on (1-23)
+Sending Initiate 2 12 on 23-13
+Sending Initiate 2 12 on 23-27
+Recv: Ack from host27 on (27-23)
+Recv: Test from host12 on (12-23 )
+Sending Reject on 23-12
+Recv: Test from host6 on (6-23 )
+Sending Reject on 23-6
+Recv: Test from host11 on (11-23 )
+Sending Reject on 23-11
+Recv: Ack from host13 on (13-23)
+Sending Ack on 23-1
+Recv: Test from host1 on (1-23 )
+Sending Test 2 12 on 23-3
+Sending Test 2 12 on 23-4
+Sending Test 2 12 on 23-13
+Sending Test 2 12 on 23-14
+Sending Test 2 12 on 23-15
+Sending Test 2 12 on 23-20
+Sending Test 2 12 on 23-21
+Sending Test 2 12 on 23-24
+Sending Test 2 12 on 23-25
+Sending Test 2 12 on 23-27
+Recv: Test from host24 on (24-23 )
+Sending Reject on 23-24
+Recv: Test from host21 on (21-23 )
+Sending Reject on 23-21
+Recv: Test from host3 on (3-23 )
+Sending Reject on 23-3
+Recv: Reject from host14 on (14-23
+Recv: Reject from host3 on (3-23
+Recv: Test from host20 on (20-23 )
+Sending Reject on 23-20
+Recv: Reject from host21 on (21-23
+Recv: Test from host4 on (4-23 )
+Sending Reject on 23-4
+Recv: Reject from host4 on (4-23
+Recv: Reject from host24 on (24-23
+Recv: Reject from host20 on (20-23
+Recv: Reject from host25 on (25-23
+Recv: Reject from host15 on (15-23
+Recv: Report 10000 from host27 on (27-23
+Recv: Report 10000 from host13 on (13-23
+Doing procedure end of test
+Sending Report 10000 on 23-1

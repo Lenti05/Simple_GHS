@@ -1,0 +1,55 @@
+Node3 Doing process WAKEUP
+Edge(3-4) set to BRANCH
+Fragment-level: 0
+Node-state: sleeping -> alive
+Sending Connect on (3-4)
+Recv: Connect from host2 on (2-3)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-3)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-3)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-3)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-3)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-3)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-3)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-3)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-3)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-3)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-3)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-3)
+place received message at the end of the queue
+Recv: Connect from host2 on (2-3)
+place received message at the end of the queue
+Recv: Initiate from host4 on (4-3)
+Sending ack on 3-4
+Recv: Connect from host2 on (2-3)
+Sending Initiate 1 4 on 3-2
+Recv: Test from host4 on (4-3 )
+Sending Test 1 4 on 3-2
+Recv: Ack from host2 on (2-3)
+Recv: Report 6 from host2 on (2-3
+Doing procedure end of test
+Sending Report 6 on 3-4
+Recv: Initiate from host4 on (4-3)
+Sending Initiate 2 0 on 3-2
+Recv: Ack from host2 on (2-3)
+Sending Ack on 3-4
+Recv: Test from host4 on (4-3 )
+Sending Test 2 0 on 3-2
+Recv: Report 10000 from host2 on (2-3
+Doing procedure end of test
+Sending Report 10000 on 3-4
+Recv: Finished from host 4on 4-3
+Edge(3-2): branch
+Sending finished on 3-2
+Edge(3-4): branch
+Terminating process: host 3

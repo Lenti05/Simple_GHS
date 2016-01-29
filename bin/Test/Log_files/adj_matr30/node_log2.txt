@@ -1,0 +1,126 @@
+Recv: Connect from host7 on (7-2)
+Sending Initiate 1 2 on 2-7
+Recv: Connect from host8 on (8-2)
+place received message at the end of the queue
+Recv: Connect from host8 on (8-2)
+place received message at the end of the queue
+Recv: Connect from host8 on (8-2)
+place received message at the end of the queue
+Recv: Connect from host8 on (8-2)
+place received message at the end of the queue
+Recv: Connect from host8 on (8-2)
+place received message at the end of the queue
+Recv: Connect from host8 on (8-2)
+place received message at the end of the queue
+Recv: Connect from host8 on (8-2)
+place received message at the end of the queue
+Recv: Connect from host8 on (8-2)
+place received message at the end of the queue
+Recv: Initiate from host7 on (7-2)
+Recv: Connect from host8 on (8-2)
+Sending Initiate 1 2 on 2-8
+Recv: Ack from host7 on (7-2)
+Cluster2is formed with level 1
+Sending Test 1 2 on 2-0
+Sending Test 1 2 on 2-1
+Sending Test 1 2 on 2-7
+Sending Test 1 2 on 2-8
+Sending Test 1 2 on 2-9
+Sending Test 1 2 on 2-11
+Sending Test 1 2 on 2-13
+Sending Test 1 2 on 2-14
+Sending Test 1 2 on 2-15
+Sending Test 1 2 on 2-16
+Sending Test 1 2 on 2-17
+Sending Test 1 2 on 2-18
+Sending Test 1 2 on 2-22
+Sending Test 1 2 on 2-24
+Sending Test 1 2 on 2-28
+Sending Test 1 2 on 2-29
+Recv: Ack from host8 on (8-2)
+Recv: Connect from host18 on (18-2)
+Sending Initiate 1 2 on 2-18
+Recv: Connect from host28 on (28-2)
+Sending Initiate 1 2 on 2-28
+Recv: Report 140 from host17 on (17-2
+Recv: Ack from host18 on (18-2)
+Recv: Report 56 from host24 on (24-2
+Recv: Ack from host28 on (28-2)
+Recv: Report 159 from host14 on (14-2
+Recv: Test from host11 on (11-2 )
+Sending Report 382 on 2-11
+Recv: Test from host1 on (1-2 )
+Sending Report 169 on 2-1
+Recv: Report 380 from host16 on (16-2
+Recv: Test from host17 on (17-2 )
+Sending Report 140 on 2-17
+Recv: Test from host16 on (16-2 )
+Sending Report 380 on 2-16
+Recv: Test from host14 on (14-2 )
+Sending Report 159 on 2-14
+Recv: Report 382 from host11 on (11-2
+Recv: Test from host9 on (9-2 )
+Sending Report 211 on 2-9
+Recv: Report 211 from host9 on (9-2
+Recv: Report 169 from host1 on (1-2
+Recv: Reject from host22 on (22-2
+Recv: Test from host24 on (24-2 )
+Sending Report 56 on 2-24
+Recv: Report 203 from host13 on (13-2
+Recv: Test from host0 on (0-2 )
+Sending Report 289 on 2-0
+Recv: Test from host13 on (13-2 )
+Sending Report 203 on 2-13
+Recv: Report 289 from host0 on (0-2
+Recv: Report 28 from host29 on (29-2
+Recv: Test from host29 on (29-2 )
+Sending Report 28 on 2-29
+Recv: Report 38 from host18 on (18-2
+Recv: Test from host15 on (15-2 )
+Sending Report 327 on 2-15
+Recv: Report 327 from host15 on (15-2
+Recv: Report 130 from host28 on (28-2
+Recv: Report 17 from host7 on (7-2
+Recv: Report 59 from host8 on (8-2
+Doing procedure end of test
+Doing procedure changeroot
+Sending Changeroot on 2-7
+Recv: Initiate from host7 on (7-2)
+Sending Initiate 2 12 on 2-8
+Sending Initiate 2 12 on 2-18
+Sending Initiate 2 12 on 2-28
+Recv: Ack from host8 on (8-2)
+Recv: Ack from host28 on (28-2)
+Recv: Ack from host18 on (18-2)
+Sending Ack on 2-7
+Recv: Test from host7 on (7-2 )
+Sending Test 2 12 on 2-0
+Sending Test 2 12 on 2-1
+Sending Test 2 12 on 2-8
+Sending Test 2 12 on 2-9
+Sending Test 2 12 on 2-11
+Sending Test 2 12 on 2-13
+Sending Test 2 12 on 2-14
+Sending Test 2 12 on 2-15
+Sending Test 2 12 on 2-16
+Sending Test 2 12 on 2-17
+Sending Test 2 12 on 2-18
+Sending Test 2 12 on 2-24
+Sending Test 2 12 on 2-28
+Sending Test 2 12 on 2-29
+Recv: Reject from host9 on (9-2
+Recv: Reject from host1 on (1-2
+Recv: Reject from host11 on (11-2
+Recv: Reject from host14 on (14-2
+Recv: Reject from host17 on (17-2
+Recv: Reject from host24 on (24-2
+Recv: Reject from host16 on (16-2
+Recv: Reject from host0 on (0-2
+Recv: Reject from host13 on (13-2
+Recv: Reject from host29 on (29-2
+Recv: Reject from host15 on (15-2
+Recv: Report 10000 from host8 on (8-2
+Recv: Report 10000 from host28 on (28-2
+Recv: Report 10000 from host18 on (18-2
+Doing procedure end of test
+Sending Report 10000 on 2-7

@@ -1,0 +1,162 @@
+Recv: Test from host8 on (8-3 )
+Place the received message a the end of the queue
+Recv: Initiate from host12 on (12-3)
+Sending ack on 3-12
+Recv: Test from host8 on (8-3 )
+Sending Report 80 on 3-8
+Recv: Test from host12 on (12-3 )
+Sending Test 1 12 on 3-1
+Sending Test 1 12 on 3-7
+Sending Test 1 12 on 3-8
+Sending Test 1 12 on 3-9
+Sending Test 1 12 on 3-15
+Sending Test 1 12 on 3-16
+Sending Test 1 12 on 3-18
+Sending Test 1 12 on 3-20
+Sending Test 1 12 on 3-22
+Sending Test 1 12 on 3-23
+Recv: Connect from host23 on (23-3)
+Sending Initiate 1 12 on 3-23
+Recv: Test from host22 on (22-3 )
+Sending Report 182 on 3-22
+Recv: Test from host15 on (15-3 )
+Sending Reject on 3-15
+Recv: Report 80 from host8 on (8-3
+Recv: Reject from host9 on (9-3
+Recv: Report 13 from host18 on (18-3
+Recv: Report 182 from host22 on (22-3
+Recv: Test from host16 on (16-3 )
+Sending Report 129 on 3-16
+Recv: Test from host20 on (20-3 )
+Sending Report 264 on 3-20
+Recv: Test from host7 on (7-3 )
+Sending Reject on 3-7
+Recv: Reject from host15 on (15-3
+Recv: Report 264 from host20 on (20-3
+Recv: Test from host18 on (18-3 )
+Sending Report 13 on 3-18
+Recv: Report 129 from host16 on (16-3
+Recv: Reject from host7 on (7-3
+Recv: Ack from host23 on (23-3)
+Recv: Reject from host1 on (1-3
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Report 47 from host23 on (23-3
+Doing procedure end of test
+Sending Report 13 on 3-12
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Connect from host18 on (18-3)
+place received message at the end of the queue
+Recv: Initiate from host12 on (12-3)
+Sending Initiate 2 4 on 3-23
+Recv: Connect from host18 on (18-3)
+Sending Initiate 2 4 on 3-18
+Recv: Ack from host23 on (23-3)
+Sending Ack on 3-12
+Recv: Ack from host18 on (18-3)
+Recv: Test from host20 on (20-3 )
+Sending Reject on 3-20
+Recv: Test from host16 on (16-3 )
+Sending Reject on 3-16
+Recv: Test from host8 on (8-3 )
+Sending Reject on 3-8
+Recv: Test from host12 on (12-3 )
+Sending Test 2 4 on 3-18
+Sending Test 2 4 on 3-22
+Sending Test 2 4 on 3-23
+Recv: Reject from host22 on (22-3
+Recv: Report 10000 from host23 on (23-3
+Recv: Report 10000 from host18 on (18-3
+Doing procedure end of test
+Sending Report 10000 on 3-12

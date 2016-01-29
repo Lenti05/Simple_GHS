@@ -1,0 +1,32 @@
+Recv: Test from host7 on (7-9 )
+Place the received message a the end of the queue
+Recv: Connect from host8 on (8-9)
+Sending Initiate 1 8 on 9-8
+Recv: Test from host7 on (7-9 )
+Place the received message a the end of the queue
+Recv: Initiate from host8 on (8-9)
+Sending ack on 9-8
+Recv: Test from host7 on (7-9 )
+Sending Report 12 on 9-7
+Recv: Test from host8 on (8-9 )
+Sending Test 1 8 on 9-7
+Recv: Report 12 from host7 on (7-9
+Doing procedure end of test
+Sending Report 12 on 9-8
+Recv: Changeroot from host8 on (8-9
+Doing procedure changeroot
+Sending Connect 1 on (9-7)
+Recv: Initiate from host7 on (7-9)
+Sending Initiate 2 0 on 9-8
+Recv: Ack from host8 on (8-9)
+Sending Ack on 9-7
+Recv: Test from host7 on (7-9 )
+Sending Test 2 0 on 9-8
+Recv: Report 10000 from host8 on (8-9
+Doing procedure end of test
+Sending Report 10000 on 9-7
+Recv: Finished from host 7on 7-9
+Edge(9-7): branch
+Edge(9-8): branch
+Sending finished on 9-8
+Terminating process: host 9
